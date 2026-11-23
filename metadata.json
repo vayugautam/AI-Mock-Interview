@@ -1,0 +1,6 @@
+{
+  "name": "TalentPulse AI - Interview & Resume Screening Platform",
+  "description": "AI-powered technical interview simulator with resume screening, live audio-video input, custom difficulty levels, and comprehensive performance feedback.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

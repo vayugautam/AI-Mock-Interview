@@ -1,0 +1,29 @@
+# Dependencies & frontend build artifacts
+node_modules/
+build/
+dist/
+coverage/
+
+# Python virtual environments & caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Secrets & local environment files (keep .env.example templates only)
+.env*
+!.env.example
+!backend/.env.example
+
+# Uploaded audio, processed WAVs & local SQLite databases
+uploads/
+backend/uploads/
+*_processed.wav
+*.db
+*.sqlite
+*.sqlite3
+
+# OS & logs
+.DS_Store
+*.log

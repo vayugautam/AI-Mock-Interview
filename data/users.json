@@ -1,0 +1,88 @@
+{
+  "usr_demo_101": {
+    "id": "usr_demo_101",
+    "name": "Alex Morgan",
+    "email": "candidate.demo@talentpulse.ai",
+    "passwordHash": "83d9990f088e5fb50b97d774cdf2cc42f42151dd88a508de1066a899597d2e66d2841d2e2459442c8e117c99bf8d070f0c470e65048573b257dae74d17b3e8be",
+    "salt": "de76b9db01be4a0f6ca01f4e1f23c2ad",
+    "createdAt": "2026-10-30T15:47:56.696Z",
+    "targetField": "Full Stack Development",
+    "difficulty": "senior",
+    "resumeFileName": "Alex_Morgan_FullStack_Resume.pdf",
+    "resumeText": "Senior engineer with 5 years experience in React and Node.js with distributed caching and PostgreSQL",
+    "shortlistResult": {
+      "shortlisted": true,
+      "status": "Shortlisted - Standard",
+      "matchScore": 74,
+      "summary": "The candidate presents direct alignment with the core Full Stack ecosystem through React, Node.js, distributed caching, and PostgreSQL. With 5 years of experience, they sit right at the entry threshold for a senior designation, though the brief resume lacks evidence of technical leadership and cloud-scale architecture.",
+      "matchedSkills": [
+        "React",
+        "Node.js",
+        "PostgreSQL",
+        "Distributed Caching",
+        "Full Stack Architecture"
+      ],
+      "missingOrRecommendedSkills": [
+        "TypeScript",
+        "Cloud Platforms (AWS/GCP/Azure)",
+        "CI/CD & Containerization (Docker/Kubernetes)",
+        "System Design & Microservices",
+        "Automated Testing (Jest/Cypress)"
+      ],
+      "experienceYearsDetected": 5,
+      "seniorityAssessment": "5 years of experience borders between strong mid-level and entry senior; technical leadership and architectural ownership need validation.",
+      "keyStrengths": [
+        "Cohesive and modern core technology stack (React + Node.js + PostgreSQL)",
+        "Familiarity with distributed caching layers for performance optimization",
+        "Balanced coverage of both client-side and server-side engineering"
+      ],
+      "areasToScrutinizeInInterview": [
+        "Cache invalidation, concurrency, and distributed consistency strategies",
+        "Database schema design, query optimization, and indexing at scale in PostgreSQL",
+        "Experience with DevOps, deployment pipelines, and architectural leadership"
+      ],
+      "interviewAdvice": "Be prepared to deep-dive into distributed system trade-offs, caching challenges, and concrete architectural decisions you led rather than just feature implementation.",
+      "analyzedAt": "2026-10-30T15:53:21.931Z",
+      "targetField": "Full Stack Development",
+      "difficulty": "senior"
+    }
+  },
+  "usr_academic_demo": {
+    "id": "usr_academic_demo",
+    "name": "Aarav Verma",
+    "email": "student.demo@hbtu.ac.in",
+    "passwordHash": "82a0065269e7e86b317d36dffd4ea47f515c53e7747ca5f3071fdabb24dde756c557fa6bd510ee5950a51cb1821d79889989107b37799213735616eeaecd11b6",
+    "salt": "8b72ba133f4d4462af9d970d374ac44b",
+    "createdAt": "2026-11-18T07:30:43.613Z",
+    "targetField": "Senior Backend Engineer",
+    "difficulty": "medium",
+    "interviewType": "mixed",
+    "skills": [],
+    "activeJdId": "jd_8b182a26-33b8-4d1a-84b3-6159ee3e48be"
+  },
+  "usr_71fe6240-5ee2-48d1-bc80-96e6cad2d2be": {
+    "id": "usr_71fe6240-5ee2-48d1-bc80-96e6cad2d2be",
+    "name": "Vayu",
+    "email": "vayu123@gmail.com",
+    "passwordHash": "59c24dddad4a8d124b4dcadd052a366ca4e7d9f25186fa0617ac146bf42ee9ed6be314f0c9e9e6ff47c00518184747d32c3efd2190cc9d0368a402b27a922b1e",
+    "salt": "87f49a4c19ec639a2888168089e1d1e7",
+    "createdAt": "2026-11-22T14:22:47.781Z",
+    "targetField": "Internship Opportunity: Dive into the World of Tech Magic!",
+    "difficulty": "medium",
+    "interviewType": "mixed",
+    "skills": [
+      "Python",
+      "Java",
+      "JavaScript",
+      "SQL",
+      "Data Structures & Algorithms",
+      "OOP",
+      "Object-Oriented Programming",
+      "REST APIs",
+      "Debugging",
+      "Git/GitHub"
+    ],
+    "activeJdId": "jd_f2635770-95bb-4052-ab50-e803962f5c88",
+    "activeResumeId": "res_0fa71a83-5432-4a1b-b738-7f64a60bdb1c"
+  }
+}

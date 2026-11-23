@@ -1,0 +1,33 @@
+{
+  "generatedAt": "2026-10-29T02:27:27.019+05:30",
+  "generatedOnPlatform": "win32",
+  "projectType": "webapp",
+  "setup": [],
+  "assertions": [
+    {
+      "name": "frontend-tests-pass",
+      "kind": "process",
+      "verificationMethod": "test-results",
+      "expected": "0",
+      "command": "npm",
+      "args": [
+        "test",
+        "--",
+        "--run"
+      ],
+      "timeoutSeconds": 120
+    },
+    {
+      "name": "frontend-production-build",
+      "kind": "process",
+      "verificationMethod": "exit-code",
+      "expected": "0",
+      "command": "npm",
+      "args": [
+        "run",
+        "build"
+      ],
+      "timeoutSeconds": 120
+    }
+  ]
+}

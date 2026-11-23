@@ -1,0 +1,80 @@
+{
+  "dataset_version": "1.0.0",
+  "rubric": {
+    "criteria": [
+      "correctness_score",
+      "relevance_score",
+      "completeness_score",
+      "clarity_score"
+    ],
+    "scale": "0-10",
+    "weights": {
+      "correctness_score": 0.35,
+      "relevance_score": 0.25,
+      "completeness_score": 0.25,
+      "clarity_score": 0.15
+    }
+  },
+  "items": [
+    {
+      "item_id": "ds-001",
+      "category": "strong",
+      "question": "How would you design a database transaction for related writes?",
+      "answer": "I would make the related writes part of one transaction so they commit atomically or roll back together. I would choose the isolation level based on consistency needs, keep the transaction short, and add indexes for the access pattern while checking their write cost."
+    },
+    {
+      "item_id": "ds-002",
+      "category": "strong",
+      "question": "Explain the time complexity of binary search and when it applies.",
+      "answer": "Binary search repeatedly halves a sorted search space, so it takes O(log n) time and O(1) extra space in an iterative implementation. It requires an ordered, randomly accessible collection; otherwise a linear scan or another index may be more appropriate."
+    },
+    {
+      "item_id": "ds-003",
+      "category": "average",
+      "question": "How would you design a REST API for updating a user profile?",
+      "answer": "I would expose an endpoint for the profile and validate the request. The API should return a useful status code and store the changes. I would also add authentication and tests."
+    },
+    {
+      "item_id": "ds-004",
+      "category": "average",
+      "question": "What are the main trade-offs of adding a database index?",
+      "answer": "An index can make reads faster because the database does not need to scan every row. It takes extra storage and can make inserts and updates slower. I would add indexes based on real query patterns."
+    },
+    {
+      "item_id": "ds-005",
+      "category": "incomplete",
+      "question": "How do you prevent a deadlock between concurrent operations?",
+      "answer": "I would use locks carefully and try to avoid deadlocks."
+    },
+    {
+      "item_id": "ds-006",
+      "category": "incomplete",
+      "question": "What makes an HTTP API reliable in production?",
+      "answer": "It should handle errors and have monitoring."
+    },
+    {
+      "item_id": "ds-007",
+      "category": "incorrect",
+      "question": "What is the difference between a process and a thread?",
+      "answer": "A thread is a completely separate program with its own memory, while a process is just a lightweight part of a thread. Threads cannot share memory, so they are always isolated from each other."
+    },
+    {
+      "item_id": "ds-008",
+      "category": "incorrect",
+      "question": "Why are database transactions useful?",
+      "answer": "Transactions mainly compress database tables and automatically make every query run in constant time. They are only needed for read-only queries and cannot roll back changes."
+    },
+    {
+      "item_id": "ds-009",
+      "category": "off_topic",
+      "question": "How would you investigate a slow SQL query?",
+      "answer": "I enjoy hiking on weekends and usually plan routes with a map. My favorite meals are simple and quick to prepare."
+    },
+    {
+      "item_id": "ds-010",
+      "category": "off_topic",
+      "question": "Explain how an API request is authenticated.",
+      "answer": "The office has a friendly culture and I work well with people from different backgrounds. I am excited to learn more about the team."
+    }
+  ]
+}

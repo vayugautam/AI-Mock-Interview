@@ -1,0 +1,165 @@
+{
+  "dataset_version": "1.0.0",
+  "sample_size": 10,
+  "provider": "deterministic_mock",
+  "metrics": {
+    "human_annotated_items": 0,
+    "paired_items": 0,
+    "criteria": {},
+    "band_agreement": null,
+    "category_error_analysis": {},
+    "latency_ms": {
+      "n": 10,
+      "mean": 0.417,
+      "max": 0.769
+    },
+    "provider_failure_rate": 0.0
+  },
+  "predictions": [
+    {
+      "item_id": "ds-001",
+      "category": "strong",
+      "latency_ms": 0.71,
+      "provider": "deterministic_mock",
+      "scores": {
+        "correctness_score": 5.9,
+        "relevance_score": 5.3,
+        "completeness_score": 5.1,
+        "clarity_score": 4.69
+      },
+      "overall_score": 5.37,
+      "is_off_topic": false
+    },
+    {
+      "item_id": "ds-002",
+      "category": "strong",
+      "latency_ms": 0.24,
+      "provider": "deterministic_mock",
+      "scores": {
+        "correctness_score": 5.86,
+        "relevance_score": 5.26,
+        "completeness_score": 5.06,
+        "clarity_score": 4.67
+      },
+      "overall_score": 5.33,
+      "is_off_topic": false
+    },
+    {
+      "item_id": "ds-003",
+      "category": "average",
+      "latency_ms": 0.211,
+      "provider": "deterministic_mock",
+      "scores": {
+        "correctness_score": 4.86,
+        "relevance_score": 5.06,
+        "completeness_score": 3.96,
+        "clarity_score": 4.89
+      },
+      "overall_score": 4.69,
+      "is_off_topic": false
+    },
+    {
+      "item_id": "ds-004",
+      "category": "average",
+      "latency_ms": 0.218,
+      "provider": "deterministic_mock",
+      "scores": {
+        "correctness_score": 4.95,
+        "relevance_score": 5.15,
+        "completeness_score": 4.05,
+        "clarity_score": 4.95
+      },
+      "overall_score": 4.78,
+      "is_off_topic": false
+    },
+    {
+      "item_id": "ds-005",
+      "category": "incomplete",
+      "latency_ms": 0.312,
+      "provider": "deterministic_mock",
+      "scores": {
+        "correctness_score": 3.68,
+        "relevance_score": 3.68,
+        "completeness_score": 2.68,
+        "clarity_score": 3.96
+      },
+      "overall_score": 3.47,
+      "is_off_topic": false
+    },
+    {
+      "item_id": "ds-006",
+      "category": "incomplete",
+      "latency_ms": 0.292,
+      "provider": "deterministic_mock",
+      "scores": {
+        "correctness_score": 3.63,
+        "relevance_score": 3.63,
+        "completeness_score": 2.63,
+        "clarity_score": 3.93
+      },
+      "overall_score": 3.43,
+      "is_off_topic": false
+    },
+    {
+      "item_id": "ds-007",
+      "category": "incorrect",
+      "latency_ms": 0.769,
+      "provider": "deterministic_mock",
+      "scores": {
+        "correctness_score": 4.12,
+        "relevance_score": 5.12,
+        "completeness_score": 3.12,
+        "clarity_score": 4.58
+      },
+      "overall_score": 4.19,
+      "is_off_topic": false
+    },
+    {
+      "item_id": "ds-008",
+      "category": "incorrect",
+      "latency_ms": 0.501,
+      "provider": "deterministic_mock",
+      "scores": {
+        "correctness_score": 4.79,
+        "relevance_score": 4.99,
+        "completeness_score": 3.89,
+        "clarity_score": 4.5
+      },
+      "overall_score": 4.57,
+      "is_off_topic": false
+    },
+    {
+      "item_id": "ds-009",
+      "category": "off_topic",
+      "latency_ms": 0.455,
+      "provider": "deterministic_mock",
+      "scores": {
+        "correctness_score": 3.88,
+        "relevance_score": 4.88,
+        "completeness_score": 2.88,
+        "clarity_score": 4.43
+      },
+      "overall_score": 3.96,
+      "is_off_topic": false
+    },
+    {
+      "item_id": "ds-010",
+      "category": "off_topic",
+      "latency_ms": 0.466,
+      "provider": "deterministic_mock",
+      "scores": {
+        "correctness_score": 3.94,
+        "relevance_score": 4.94,
+        "completeness_score": 2.94,
+        "clarity_score": 4.47
+      },
+      "overall_score": 4.02,
+      "is_off_topic": false
+    }
+  ],
+  "limitations": [
+    "No independent human annotations were supplied; agreement metrics are unavailable.",
+    "The pilot has only ten items and is not evidence of objective or calibrated evaluation.",
+    "The deterministic provider is not representative of a live Groq model."
+  ]
+}

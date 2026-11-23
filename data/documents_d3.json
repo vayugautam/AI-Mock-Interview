@@ -1,0 +1,1442 @@
+[
+  {
+    "id": "res_ddf0daa1-f28f-47f0-a95d-0c98ac4c6c61",
+    "userId": "usr_ce331774-f26d-4551-9666-5bf7da526f44",
+    "docType": "resume",
+    "sourceType": "pdf",
+    "fileName": "SDE_Resume_Divya_Ratna_Gautam (10).pdf",
+    "fileSizeBytes": 108829,
+    "pageCount": 1,
+    "charCount": 3581,
+    "rawText": "Divya Ratna Gautam\n+91 9956189165 — vayugautam249@gmail.com — LinkedIn — LeetCode — GitHub\nSummary\nSoftware Engineering student with hands-on experience building full-stack applications, REST APIs, and\nLLM-powered systems. Strong foundation in Data Structures & Algorithms,Object-Oriented Programming, DBMS,\nOperating Systems, and Computer Networks. Experienced with Python, Java, React, FastAPI, and SQL, with\nadditional experience building RAG and LLM-based applications.\nEducation\nHarcourt Butler Technical University, Kanpur September 2023 – Present\nBachelor of Technology in Information Technology (CGPA : 7.01)\nOxford Model Senior Secondary School, Kanpur CBSE\nSenior Secondary (Class XII) – 81%\nOxford Model Senior Secondary School, Kanpur CBSE\nSecondary (Class X) – 71%\nSkills\nLanguages: Python, Java, JavaScript, SQL\nSoftware Engineering: Data Structures & Algorithms, OOP, REST APIs, Debugging, Git/GitHub\nBackend: FastAPI, Java\nFrontend: React.js, HTML, CSS\nGenerative AI: LLMs, RAG, Prompt Engineering, Embeddings, Vector Search\nDatabases: MongoDB, MySQL\nFundamentals: DBMS, Operating Systems, Computer Networks\nProjects\nPayFlow Copilot – AI-Powered Payment Operations Assistant GitHub — Live\nPython, FastAPI, React, TypeScript, PostgreSQL, SQLAlchemy, Qdrant Cloud, Groq API, Gemini API, Razorpay\n• Built a full-stack payment operations platform using FastAPI, React, and PostgreSQL 16, implementing JWT\nauthentication and user-scoped transaction, conversation, dispute, and audit-log management through REST APIs.\n• Integrated Groq Chat Completions API with openai/gpt-oss-120b for tool-calling conversations and Google’s Gemini\nEmbedding API with gemini-embedding-001 (768 dimensions) for semantic policy retrieval using Qdrant Cloud.\n• Implemented policy-document ingestion and retrieval with user/document metadata filtering, returning source-backed\ncitations; developed deterministic payment-failure analysis to identify failure reasons and retry eligibility.\n• Integrated Razorpay Standard Checkout (Test Mode) with order creation, HMAC-SHA256 payment-signature verification,\nwebhook verification, and failure reconciliation; implemented reviewable dispute drafts with evidence classification and audit\nlogging.\nLearnMate AI – Full-Stack RAG Learning Platform GitHub — Live\nPython, FastAPI, Qdrant, Gemini Embeddings API, Groq API, Pydantic\n• Engineered a Python-based Retrieval-Augmented Generation (RAG) pipeline using PyPDF for document ingestion,\nrecursive text splitting with 1,000-character chunks and 200-character overlap, and metadata-aware document processing.\n• Built a semantic retrieval system using Gemini embeddings and Qdrant Vector Database, retrieving the top 5 relevant\nchunks per query with metadata filtering and configurable similarity thresholds.\n• Integrated Groq’s ‘openai/gpt-oss-120b’ LLM for context-grounded question answering, with an 8,000-token context budget,\n800-token generation limit, and conversation history management.\n• Developed FastAPI REST endpoints for document ingestion and AI-powered learning workflows, incorporating Pydantic\nvalidation, structured error handling, retry logic, and automated evaluation of retrieval relevance and answer quality.\nAchievements\n• LeetCode Knight – Solved 1,300+ DSA problems across competitive programming platforms; peak LeetCode rating:\n2053.\n• CodeChef 3-Star – Peak rating: 1650; participated in multiple competitive programming contests.\n• Smart India Hackathon 2025 – Selected among the top teams at the HBTU internal hackathon.\n• GATE 2026 (CS & IT) – Score: 363; AIR: 25,584.",
+    "normalizedText": "Divya Ratna Gautam\n+91 9956189165 — vayugautam249@gmail.com — LinkedIn — LeetCode — GitHub\nSummary\nSoftware Engineering student with hands-on experience building full-stack applications, REST APIs, and\nLLM-powered systems. Strong foundation in Data Structures & Algorithms,Object-Oriented Programming, DBMS,\nOperating Systems, and Computer Networks. Experienced with Python, Java, React, FastAPI, and SQL, with\nadditional experience building RAG and LLM-based applications.\nEducation\nHarcourt Butler Technical University, Kanpur September 2023 – Present\nBachelor of Technology in Information Technology (CGPA : 7.01)\nOxford Model Senior Secondary School, Kanpur CBSE\nSenior Secondary (Class XII) – 81%\nOxford Model Senior Secondary School, Kanpur CBSE\nSecondary (Class X) – 71%\nSkills\nLanguages: Python, Java, JavaScript, SQL\nSoftware Engineering: Data Structures & Algorithms, OOP, REST APIs, Debugging, Git/GitHub\nBackend: FastAPI, Java\nFrontend: React.js, HTML, CSS\nGenerative AI: LLMs, RAG, Prompt Engineering, Embeddings, Vector Search\nDatabases: MongoDB, MySQL\nFundamentals: DBMS, Operating Systems, Computer Networks\nProjects\nPayFlow Copilot – AI-Powered Payment Operations Assistant GitHub — Live\nPython, FastAPI, React, TypeScript, PostgreSQL, SQLAlchemy, Qdrant Cloud, Groq API, Gemini API, Razorpay\n• Built a full-stack payment operations platform using FastAPI, React, and PostgreSQL 16, implementing JWT\nauthentication and user-scoped transaction, conversation, dispute, and audit-log management through REST APIs.\n• Integrated Groq Chat Completions API with openai/gpt-oss-120b for tool-calling conversations and Google’s Gemini\nEmbedding API with gemini-embedding-001 (768 dimensions) for semantic policy retrieval using Qdrant Cloud.\n• Implemented policy-document ingestion and retrieval with user/document metadata filtering, returning source-backed\ncitations; developed deterministic payment-failure analysis to identify failure reasons and retry eligibility.\n• Integrated Razorpay Standard Checkout (Test Mode) with order creation, HMAC-SHA256 payment-signature verification,\nwebhook verification, and failure reconciliation; implemented reviewable dispute drafts with evidence classification and audit\nlogging.\nLearnMate AI – Full-Stack RAG Learning Platform GitHub — Live\nPython, FastAPI, Qdrant, Gemini Embeddings API, Groq API, Pydantic\n• Engineered a Python-based Retrieval-Augmented Generation (RAG) pipeline using PyPDF for document ingestion,\nrecursive text splitting with 1,000-character chunks and 200-character overlap, and metadata-aware document processing.\n• Built a semantic retrieval system using Gemini embeddings and Qdrant Vector Database, retrieving the top 5 relevant\nchunks per query with metadata filtering and configurable similarity thresholds.\n• Integrated Groq’s ‘openai/gpt-oss-120b’ LLM for context-grounded question answering, with an 8,000-token context budget,\n800-token generation limit, and conversation history management.\n• Developed FastAPI REST endpoints for document ingestion and AI-powered learning workflows, incorporating Pydantic\nvalidation, structured error handling, retry logic, and automated evaluation of retrieval relevance and answer quality.\nAchievements\n• LeetCode Knight – Solved 1,300+ DSA problems across competitive programming platforms; peak LeetCode rating:\n2053.\n• CodeChef 3-Star – Peak rating: 1650; participated in multiple competitive programming contests.\n• Smart India Hackathon 2025 – Selected among the top teams at the HBTU internal hackathon.\n• GATE 2026 (CS & IT) – Score: 363; AIR: 25,584.",
+    "analysis": {
+      "candidateSkills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "SQL",
+        "Data Structures & Algorithms",
+        "OOP",
+        "REST APIs",
+        "Debugging",
+        "Git/GitHub",
+        "FastAPI",
+        "React.js",
+        "HTML",
+        "CSS",
+        "LLMs",
+        "RAG",
+        "Prompt Engineering",
+        "Embeddings",
+        "Vector Search",
+        "MongoDB",
+        "MySQL",
+        "DBMS",
+        "Operating Systems",
+        "Computer Networks",
+        "TypeScript",
+        "PostgreSQL",
+        "React",
+        "Git",
+        "GitHub",
+        "Object-Oriented Programming",
+        "Large Language Models",
+        "Retrieval-Augmented Generation",
+        "Vector Databases"
+      ],
+      "workExperience": [],
+      "projects": [
+        {
+          "name": "PayFlow Copilot – AI-Powered Payment Operations Assistant",
+          "description": "Built a full‑stack payment operations platform with FastAPI, React, PostgreSQL, JWT authentication, integrated Groq Chat Completions API and Gemini Embedding API for policy retrieval, and implemented Razorpay Standard Checkout with payment‑signature verification and dispute management.",
+          "technologies": [
+            "Python",
+            "FastAPI",
+            "React",
+            "TypeScript",
+            "PostgreSQL",
+            "SQLAlchemy",
+            "Qdrant Cloud",
+            "Groq API",
+            "Gemini API",
+            "Razorpay"
+          ]
+        },
+        {
+          "name": "LearnMate AI – Full-Stack RAG Learning Platform",
+          "description": "Engineered a Retrieval‑Augmented Generation pipeline using Python, FastAPI, Qdrant and Gemini embeddings; built semantic retrieval, integrated Groq’s LLM for context‑grounded QA, and created FastAPI REST endpoints with Pydantic validation and error handling.",
+          "technologies": [
+            "Python",
+            "FastAPI",
+            "Qdrant",
+            "Gemini Embeddings API",
+            "Groq API",
+            "Pydantic"
+          ]
+        }
+      ],
+      "education": [
+        "Harcourt Butler Technical University, Kanpur – Bachelor of Technology in Information Technology (CGPA: 7.01) (September 2023 – Present)",
+        "Oxford Model Senior Secondary School, Kanpur – Senior Secondary (Class XII) – 81%",
+        "Oxford Model Senior Secondary School, Kanpur – Secondary (Class X) – 71%"
+      ],
+      "technologiesUsed": [
+        "Python",
+        "FastAPI",
+        "React",
+        "TypeScript",
+        "PostgreSQL",
+        "SQLAlchemy",
+        "Qdrant",
+        "Groq API",
+        "Gemini API",
+        "Razorpay",
+        "Java",
+        "JavaScript",
+        "SQL",
+        "HTML",
+        "CSS",
+        "MongoDB",
+        "MySQL",
+        "Pydantic",
+        "REST APIs",
+        "Git",
+        "GitHub",
+        "Large Language Models",
+        "Retrieval-Augmented Generation",
+        "Prompt Engineering",
+        "Vector Databases"
+      ],
+      "achievements": [
+        "LeetCode Knight – Solved 1,300+ DSA problems; peak rating 2053.",
+        "CodeChef 3-Star – Peak rating 1650; participated in multiple contests.",
+        "Smart India Hackathon 2025 – Selected among top teams at HBTU internal hackathon.",
+        "GATE 2026 (CS & IT) – Score 363; AIR 25,584."
+      ]
+    },
+    "analysisPromptVersion": "doc-analysis-v1",
+    "chunkIds": [
+      "resume_ac4c6c61_c1",
+      "resume_ac4c6c61_c2",
+      "resume_ac4c6c61_c3",
+      "resume_ac4c6c61_c4",
+      "resume_ac4c6c61_c5",
+      "resume_ac4c6c61_c6",
+      "resume_ac4c6c61_c7",
+      "resume_ac4c6c61_c8"
+    ],
+    "schemaVersion": 2,
+    "createdAt": "2026-11-23T21:17:25.724Z"
+  },
+  {
+    "id": "jd_ba5149a5-e3c8-4896-a996-b4dda74dd963",
+    "userId": "usr_ce331774-f26d-4551-9666-5bf7da526f44",
+    "docType": "jd",
+    "sourceType": "text",
+    "charCount": 2612,
+    "rawText": "• Develops software consistent with Cisco ‘Design Thinking Principles’ with a focus on simplification and UX (User Experience) at its core, using secure coding practices, ensuring user privacy, and following software development best practices.\n\n• Partners with other teams including design and product management to create the right solution for the customers.\n\n• Creates technical design documentation to be used by the team as well as contributing to user documentation to be used by end users.\n\n• Debugs and addresses software issues during development and in production systems to support customers. Brings new ideas for product innovation and helps improve software development processes. What You’ll Do:\n\n• Communicates status and issues to the team\n\n• Shares experience and knowledge to support the team\n\n• Performs routine assignments that require basic knowledge and exposure to fundamental theories, principles, and concepts.\n\n• Collaborates effectively with own team.\n\n• Contributes to small projects and works with others on small features primarily focused on coding and testing.\n\n• Develops an understanding of the software development lifecycle and the various agile engineering practices (e.g., requirements analysis, design, coding, unit testing, acceptance testing), and assists on projects where these methods are applied.\n\n• Analyzes user requirements and works with others to understand impact on technical design features.\n\n• Writes correct code with assistance.\n\n• Supports test code refining and rewriting as part of testing and debugging.\n\n• Assists with tests for scaling for reliability and velocity.\n\n• Applies secure coding principles and follows secure coding guidelines.\n\n• Supports more senior team members in troubleshooting and debugging issues.\n\n• Proficient in at least one large area of the codebase (multiple services in a pillar) with a high-level understanding of other components. Minimum Qualifications:\n\n• Bachelors + 0 years of previous experience\n\n• Requires basic knowledge of theories, principles and concepts within a technical discipline; has exposure to current technologies through coursework or internship.\n\n• Deep interest in building technical expertise in Front-end technologies and intuitive user experiences for our customers.\n\nPreferred Qualifications Varies based on the team and business needs | Preferred Qualifications are desired education, experience, and skills that are in addition to Minimum Qualifications.\n\n• Worked with Front-end technologies like React, JavaScript\n\n• Have used Figma to review mockups and build exactly as the Figma mockup.",
+    "normalizedText": "• Develops software consistent with Cisco ‘Design Thinking Principles’ with a focus on simplification and UX (User Experience) at its core, using secure coding practices, ensuring user privacy, and following software development best practices.\n\n• Partners with other teams including design and product management to create the right solution for the customers.\n\n• Creates technical design documentation to be used by the team as well as contributing to user documentation to be used by end users.\n\n• Debugs and addresses software issues during development and in production systems to support customers. Brings new ideas for product innovation and helps improve software development processes. What You’ll Do:\n\n• Communicates status and issues to the team\n\n• Shares experience and knowledge to support the team\n\n• Performs routine assignments that require basic knowledge and exposure to fundamental theories, principles, and concepts.\n\n• Collaborates effectively with own team.\n\n• Contributes to small projects and works with others on small features primarily focused on coding and testing.\n\n• Develops an understanding of the software development lifecycle and the various agile engineering practices (e.g., requirements analysis, design, coding, unit testing, acceptance testing), and assists on projects where these methods are applied.\n\n• Analyzes user requirements and works with others to understand impact on technical design features.\n\n• Writes correct code with assistance.\n\n• Supports test code refining and rewriting as part of testing and debugging.\n\n• Assists with tests for scaling for reliability and velocity.\n\n• Applies secure coding principles and follows secure coding guidelines.\n\n• Supports more senior team members in troubleshooting and debugging issues.\n\n• Proficient in at least one large area of the codebase (multiple services in a pillar) with a high-level understanding of other components. Minimum Qualifications:\n\n• Bachelors + 0 years of previous experience\n\n• Requires basic knowledge of theories, principles and concepts within a technical discipline; has exposure to current technologies through coursework or internship.\n\n• Deep interest in building technical expertise in Front-end technologies and intuitive user experiences for our customers.\n\nPreferred Qualifications Varies based on the team and business needs | Preferred Qualifications are desired education, experience, and skills that are in addition to Minimum Qualifications.\n\n• Worked with Front-end technologies like React, JavaScript\n\n• Have used Figma to review mockups and build exactly as the Figma mockup.",
+    "analysis": {
+      "jobTitle": "Unknown",
+      "companyName": "Unknown",
+      "requiredTechnicalSkills": [],
+      "preferredSkills": [
+        "Front-end technologies",
+        "React",
+        "JavaScript",
+        "Figma"
+      ],
+      "responsibilities": [
+        "Develops software consistent with Cisco ‘Design Thinking Principles’ with a focus on simplification and UX (User Experience) at its core, using secure coding practices, ensuring user privacy, and following software development best practices.",
+        "Partners with other teams including design and product management to create the right solution for the customers.",
+        "Creates technical design documentation to be used by the team as well as contributing to user documentation to be used by end users.",
+        "Debugs and addresses software issues during development and in production systems to support customers. Brings new ideas for product innovation and helps improve software development processes.",
+        "Communicates status and issues to the team.",
+        "Shares experience and knowledge to support the team.",
+        "Performs routine assignments that require basic knowledge and exposure to fundamental theories, principles, and concepts.",
+        "Collaborates effectively with own team.",
+        "Contributes to small projects and works with others on small features primarily focused on coding and testing.",
+        "Develops an understanding of the software development lifecycle and the various agile engineering practices (e.g., requirements analysis, design, coding, unit testing, acceptance testing), and assists on projects where these methods are applied.",
+        "Analyzes user requirements and works with others to understand impact on technical design features.",
+        "Writes correct code with assistance.",
+        "Supports test code refining and rewriting as part of testing and debugging.",
+        "Assists with tests for scaling for reliability and velocity.",
+        "Applies secure coding principles and follows secure coding guidelines.",
+        "Supports more senior team members in troubleshooting and debugging issues.",
+        "Proficient in at least one large area of the codebase (multiple services in a pillar) with a high-level understanding of other components."
+      ],
+      "requiredExperience": "Bachelors + 0 years of previous experience",
+      "toolsAndTechnologies": [
+        "React",
+        "JavaScript",
+        "Figma"
+      ],
+      "importantQualifications": [
+        "Bachelors + 0 years of previous experience",
+        "Requires basic knowledge of theories, principles and concepts within a technical discipline; has exposure to current technologies through coursework or internship.",
+        "Deep interest in building technical expertise in Front-end technologies and intuitive user experiences for our customers."
+      ]
+    },
+    "analysisPromptVersion": "doc-analysis-v1",
+    "webResearchSummary": "1. Medium; published Tue, 03 Mar 2026 04:58:35 GMT\nMember-only story\n\n# L2 Frontend Interview Experience React JS\n\nAnil\n\nRecently attended an L2 round that focused heavily on past experience, system design, and architecture thinking rather than just coding.\n\nLinkedIn Sales Solutionson\n\nUnsplash\n\nHere are the questions I was asked:\n\nHave you worked on public websites?\n\nCan you give an example of a public site that you have worked on?\n\nIs the site client-side rendered or server-side rendered?\n\nHow would you take care of SEO?\n\nWhy is this e-commerce site CSR instead of SSR?\n\nEven without Next.js, can’t you do server-side rendering with React?\n\nIf you want to build a server-side rendered application without Next.js, what would be the alternative\nSource: https://medium.com/@anil-singh/l2-frontend-interview-experience-react-js-091aacbd3ffe\n\n2. 92 React, TypeScript and Node.js Interview Questions for Full Stack Roles in Banking | by Manish Khedekar | Oct, 2026 | JavaScript in Plain English; published Fri, 09 Oct 2026 18:57:27 GMT\nThis is the list I ended up with: 92 questions across 13 topics, built from candidate reports and bank job postings. It is the companion to my Java and Spring Boot list for the backend half of the same round.\n\nHow to use it: answer each question out loud first, then check the short answer. Lead with the core idea and go deeper only when the interviewer asks.\n\n## 1. JavaScript core\n\nReact rounds often start here. Screeners want to see that you know the language under the framework.\n\nQ1. Explain the event loop. What does this print?\n\nJavaScript runs on one call stack. When the stack is empty, the event loop runs all microtasks (promise callbacks, `queueMicrotask`), then the next macrotask (`se\nSource: https://javascript.plainenglish.io/92-react-typescript-and-node-js-interview-questions-for-full-stack-roles-in-banking-e9908c6bb035\n\n3. UX Designer Interview Questions 2026: The 3-Round Loop - KORE1; published Tue, 26 May 2026 14:04:36 GMT\nHandoff hygiene is invisible until it is not. The strong answer covers a specific failure mode (Figma states that did not match the component library the engineering team had already built in production, missing empty states the QA team caught two days before launch, a hover behavior that worked on mouse and broke on touch the moment the iOS users started filing tickets) and the durable discipline that came out of the failure (a checklist tied to the design system tokens, a paired implementation review with the front-end engineer who owned the surface, a new annotation pattern that called out the edge cases explicitly). The thin answer says “I write better annotations now.” That is not disci\nSource: https://www.kore1.com/ux-designer-interview-questions\n\n4. Intuit Front End Interview Guide (2026): Process, Questions & Prep; published Tue, 03 Nov 2026 19:13:30 GMT\n1. 1\n   \n   ### Recruiter or hiring manager screen\n   \n   About 30 minutes\n   \n   Expect your background, project architecture, why you want to change roles, and what you expect from the next one. A staff member’s screen covered exactly those topics with a few basic behavioral questions. One intern was asked about enthusiasm for Intuit’s products and whether they preferred frontend, backend, or full stack, which determined the team for the next round.\n2. 2\n   \n   ### Technical screen\n   \n   About 60 minutes\n   \n   Formats vary. Members reported:\n   \n   - A deep project discussion for 30 minutes, then a small React problem.\n   - JavaScript and React fundamentals plus one coding question, such\nSource: https://frontendlead.com/company-specific-questions/intuit\n\n5. 50+ React Coding Interview Questions with Solutions (2026) | Blog; published Mon, 05 Oct 2026 00:00:00 GMT\nNew questions added in Oct 2026 ->\n\nPricing NEWSign in / up\n\nGet full access\n\n# 50+ React Coding Interview Questions with Solutions (2026)\n\nPractice 59 React coding interview questions, from Counter to Wordle, grouped by difficulty with a short solution for each. Updated for 2026.\n\nTags\n\n#react#interviews\n\nAuthor\n\nGreatFrontEnd Team\n\n25 min read\nOct 5, 2026\n\n50+ React Coding Interview Questions with Solutions (2026)\n\nPractice these 59 React coding interview questions with short solution approaches, grouped by difficulty, to prepare for your 2026 job interviews. Start with simple forms and state updates, then work through accessible components, asynchronous interfaces, and games. [...] Each q\nSource: https://www.greatfrontend.com/blog/practice-50-react-coding-interview-questions-with-solutions\n\n6. Canva Front End Interview Questions | The Official Front End Interview Handbook 2026; published Mon, 05 Oct 2026 08:51:28 GMT\nJune 2025:\n\nThe problem presented for the AI-assisted coding interviews was one of the problems I practiced: \"Create a production-grade Figma clone\". I got lost discussing requirements, couldn't figure out what the interviewer wanted, they kept asking what I thought the scope should be. Built a canvas with drag-drop rectan",
+    "webSources": [
+      {
+        "title": "Medium",
+        "uri": "https://medium.com/@anil-singh/l2-frontend-interview-experience-react-js-091aacbd3ffe",
+        "publishedAt": "Tue, 03 Mar 2026 04:58:35 GMT"
+      },
+      {
+        "title": "92 React, TypeScript and Node.js Interview Questions for Full Stack Roles in Banking | by Manish Khedekar | Oct, 2026 | JavaScript in Plain English",
+        "uri": "https://javascript.plainenglish.io/92-react-typescript-and-node-js-interview-questions-for-full-stack-roles-in-banking-e9908c6bb035",
+        "publishedAt": "Fri, 09 Oct 2026 18:57:27 GMT"
+      },
+      {
+        "title": "UX Designer Interview Questions 2026: The 3-Round Loop - KORE1",
+        "uri": "https://www.kore1.com/ux-designer-interview-questions",
+        "publishedAt": "Tue, 26 May 2026 14:04:36 GMT"
+      },
+      {
+        "title": "Intuit Front End Interview Guide (2026): Process, Questions & Prep",
+        "uri": "https://frontendlead.com/company-specific-questions/intuit",
+        "publishedAt": "Tue, 03 Nov 2026 19:13:30 GMT"
+      },
+      {
+        "title": "50+ React Coding Interview Questions with Solutions (2026) | Blog",
+        "uri": "https://www.greatfrontend.com/blog/practice-50-react-coding-interview-questions-with-solutions",
+        "publishedAt": "Mon, 05 Oct 2026 00:00:00 GMT"
+      },
+      {
+        "title": "Canva Front End Interview Questions | The Official Front End Interview Handbook 2026",
+        "uri": "https://www.frontendinterviewhandbook.com/companies/canva-front-end-interview-questions",
+        "publishedAt": "Mon, 05 Oct 2026 08:51:28 GMT"
+      }
+    ],
+    "webResearchStatus": "completed",
+    "chunkIds": [
+      "jd_a74dd963_c1",
+      "jd_a74dd963_c2",
+      "jd_a74dd963_c3",
+      "jd_a74dd963_c4",
+      "jd_a74dd963_c5",
+      "jd_a74dd963_c6"
+    ],
+    "schemaVersion": 2,
+    "createdAt": "2026-11-23T21:17:23.556Z"
+  },
+  {
+    "id": "jd_359fd5c1-5c17-4d91-b78d-7d5edb31a78e",
+    "userId": "usr_4127c045-3112-4c5b-a584-d5137826305c",
+    "docType": "jd",
+    "sourceType": "text",
+    "charCount": 2612,
+    "rawText": "• Develops software consistent with Cisco ‘Design Thinking Principles’ with a focus on simplification and UX (User Experience) at its core, using secure coding practices, ensuring user privacy, and following software development best practices.\n\n• Partners with other teams including design and product management to create the right solution for the customers.\n\n• Creates technical design documentation to be used by the team as well as contributing to user documentation to be used by end users.\n\n• Debugs and addresses software issues during development and in production systems to support customers. Brings new ideas for product innovation and helps improve software development processes. What You’ll Do:\n\n• Communicates status and issues to the team\n\n• Shares experience and knowledge to support the team\n\n• Performs routine assignments that require basic knowledge and exposure to fundamental theories, principles, and concepts.\n\n• Collaborates effectively with own team.\n\n• Contributes to small projects and works with others on small features primarily focused on coding and testing.\n\n• Develops an understanding of the software development lifecycle and the various agile engineering practices (e.g., requirements analysis, design, coding, unit testing, acceptance testing), and assists on projects where these methods are applied.\n\n• Analyzes user requirements and works with others to understand impact on technical design features.\n\n• Writes correct code with assistance.\n\n• Supports test code refining and rewriting as part of testing and debugging.\n\n• Assists with tests for scaling for reliability and velocity.\n\n• Applies secure coding principles and follows secure coding guidelines.\n\n• Supports more senior team members in troubleshooting and debugging issues.\n\n• Proficient in at least one large area of the codebase (multiple services in a pillar) with a high-level understanding of other components. Minimum Qualifications:\n\n• Bachelors + 0 years of previous experience\n\n• Requires basic knowledge of theories, principles and concepts within a technical discipline; has exposure to current technologies through coursework or internship.\n\n• Deep interest in building technical expertise in Front-end technologies and intuitive user experiences for our customers.\n\nPreferred Qualifications Varies based on the team and business needs | Preferred Qualifications are desired education, experience, and skills that are in addition to Minimum Qualifications.\n\n• Worked with Front-end technologies like React, JavaScript\n\n• Have used Figma to review mockups and build exactly as the Figma mockup.",
+    "normalizedText": "• Develops software consistent with Cisco ‘Design Thinking Principles’ with a focus on simplification and UX (User Experience) at its core, using secure coding practices, ensuring user privacy, and following software development best practices.\n\n• Partners with other teams including design and product management to create the right solution for the customers.\n\n• Creates technical design documentation to be used by the team as well as contributing to user documentation to be used by end users.\n\n• Debugs and addresses software issues during development and in production systems to support customers. Brings new ideas for product innovation and helps improve software development processes. What You’ll Do:\n\n• Communicates status and issues to the team\n\n• Shares experience and knowledge to support the team\n\n• Performs routine assignments that require basic knowledge and exposure to fundamental theories, principles, and concepts.\n\n• Collaborates effectively with own team.\n\n• Contributes to small projects and works with others on small features primarily focused on coding and testing.\n\n• Develops an understanding of the software development lifecycle and the various agile engineering practices (e.g., requirements analysis, design, coding, unit testing, acceptance testing), and assists on projects where these methods are applied.\n\n• Analyzes user requirements and works with others to understand impact on technical design features.\n\n• Writes correct code with assistance.\n\n• Supports test code refining and rewriting as part of testing and debugging.\n\n• Assists with tests for scaling for reliability and velocity.\n\n• Applies secure coding principles and follows secure coding guidelines.\n\n• Supports more senior team members in troubleshooting and debugging issues.\n\n• Proficient in at least one large area of the codebase (multiple services in a pillar) with a high-level understanding of other components. Minimum Qualifications:\n\n• Bachelors + 0 years of previous experience\n\n• Requires basic knowledge of theories, principles and concepts within a technical discipline; has exposure to current technologies through coursework or internship.\n\n• Deep interest in building technical expertise in Front-end technologies and intuitive user experiences for our customers.\n\nPreferred Qualifications Varies based on the team and business needs | Preferred Qualifications are desired education, experience, and skills that are in addition to Minimum Qualifications.\n\n• Worked with Front-end technologies like React, JavaScript\n\n• Have used Figma to review mockups and build exactly as the Figma mockup.",
+    "analysis": {
+      "jobTitle": "Unknown",
+      "companyName": "Unknown",
+      "requiredTechnicalSkills": [],
+      "preferredSkills": [
+        "Front-end technologies like React, JavaScript",
+        "Figma"
+      ],
+      "responsibilities": [
+        "Develops software consistent with Cisco ‘Design Thinking Principles’ with a focus on simplification and UX (User Experience) at its core, using secure coding practices, ensuring user privacy, and following software development best practices.",
+        "Partners with other teams including design and product management to create the right solution for the customers.",
+        "Creates technical design documentation to be used by the team as well as contributing to user documentation to be used by end users.",
+        "Debugs and addresses software issues during development and in production systems to support customers. Brings new ideas for product innovation and helps improve software development processes.",
+        "Communicates status and issues to the team",
+        "Shares experience and knowledge to support the team",
+        "Performs routine assignments that require basic knowledge and exposure to fundamental theories, principles, and concepts.",
+        "Collaborates effectively with own team.",
+        "Contributes to small projects and works with others on small features primarily focused on coding and testing.",
+        "Develops an understanding of the software development lifecycle and the various agile engineering practices (e.g., requirements analysis, design, coding, unit testing, acceptance testing), and assists on projects where these methods are applied.",
+        "Analyzes user requirements and works with others to understand impact on technical design features.",
+        "Writes correct code with assistance.",
+        "Supports test code refining and rewriting as part of testing and debugging.",
+        "Assists with tests for scaling for reliability and velocity.",
+        "Applies secure coding principles and follows secure coding guidelines.",
+        "Supports more senior team members in troubleshooting and debugging issues.",
+        "Proficient in at least one large area of the codebase (multiple services in a pillar) with a high-level understanding of other components."
+      ],
+      "requiredExperience": "Bachelors + 0 years of previous experience",
+      "toolsAndTechnologies": [
+        "React",
+        "JavaScript",
+        "Figma"
+      ],
+      "importantQualifications": [
+        "Requires basic knowledge of theories, principles and concepts within a technical discipline; has exposure to current technologies through coursework or internship.",
+        "Deep interest in building technical expertise in Front-end technologies and intuitive user experiences for our customers."
+      ]
+    },
+    "analysisPromptVersion": "doc-analysis-v1",
+    "webResearchSummary": "1. 92 React, TypeScript and Node.js Interview Questions for Full Stack Roles in Banking | by Manish Khedekar | Oct, 2026 | JavaScript in Plain English; published Fri, 09 Oct 2026 18:57:27 GMT\nThis is the list I ended up with: 92 questions across 13 topics, built from candidate reports and bank job postings. It is the companion to my Java and Spring Boot list for the backend half of the same round.\n\nHow to use it: answer each question out loud first, then check the short answer. Lead with the core idea and go deeper only when the interviewer asks.\n\n## 1. JavaScript core\n\nReact rounds often start here. Screeners want to see that you know the language under the framework.\n\nQ1. Explain the event loop. What does this print?\n\nJavaScript runs on one call stack. When the stack is empty, the event loop runs all microtasks (promise callbacks, `queueMicrotask`), then the next macrotask (`se\nSource: https://javascript.plainenglish.io/92-react-typescript-and-node-js-interview-questions-for-full-stack-roles-in-banking-e9908c6bb035\n\n2. Figma Interview Guide 2026: Collaborative Editor Engineering, CRDTs, and Frontend Performance – techinterview; published Wed, 22 Apr 2026 15:28:47 GMT\n- Frontend deep-dive (frontend roles): a meaty discussion of browser rendering, reflows, paint, WebGL or canvas rendering, memory profiling, bundle splitting. Figma’s rendering pipeline is custom — they expect you to have real opinions about this layer, not just React lifecycle knowledge.\n- Craft / product sense: you’ll get shown a Figma feature and asked what you’d improve. Not a trick — they want to know if you engage with the product as a user.\n- Behavioral / team fit: past projects, conflict, how you handle ambiguity, how you think about design-engineering partnership. Figma has an unusually tight design-engineering loop. [...] - Coding (1–2 rounds): one classic data-structures problem, \nSource: https://www.techinterview.org/companies/figma\n\n3. Medium; published Fri, 30 Oct 2026 11:46:41 GMT\n# Inside the Figma Interview Room: What Hiring Panels Really Ask a UIUX Designer\n\nNobody warns you that a design interview feels a little like a driving test. You know the road, you have practised the moves, and yet the moment someone sits beside you with a clipboard, your hands forget what they know. A uiux designer walking into a hiring round today faces exactly that mix of nerves and scrutiny, because the panel is not only watching what you build. They are watching how you think, how you talk about your choices, and how calmly you recover when a question catches you off guard. This guide walks through the Figma interview questions that come up again and again, the thinking behind them, an\nSource: https://medium.com/@roshan.justacademy/inside-the-figma-interview-room-what-hiring-panels-really-ask-a-uiux-designer-2a044b0e254e\n\n4. Frontend Engineer Interview Questions 2026 (by Level) - KORE1; published Sun, 28 Jun 2026 21:01:28 GMT\nLast year we ran a senior frontend search for a healthcare SaaS client in the Costa Mesa area. React and TypeScript, a patient-facing portal, real compliance weight on it. Their loop was two algorithm rounds and a round of React trivia. Fast, tidy, and it produced demos that looked great in the room.\n\nThen their Core Web Vitals fell over in the field. Lab scores near perfect, INP in the field sitting in the “poor” band for a big slice of their patients, most of them on older Android phones over carrier networks. Real users. Real conditions. And an accessibility complaint landed, because a custom modal trapped keyboard focus and a screen reader user could not get out of it. [...] Last one, an\nSource: https://www.kore1.com/frontend-engineer-interview-questions-2026\n\n5. Flipkart Frontend Interview Experience with 3+ Yrs Exp | Ankit Kanojiya posted on the topic | LinkedIn; published Sun, 05 Apr 2026 19:00:00 GMT\n20 Ensure smooth scroll (no jank) Optimize performance with virtualization ← Lesson → They cared more about scalable Ul handling than tricky puzzles. ◆ Round 2 - Frontend System Design (45 mins) Scenario → Design Flipkart's Cart System (Mini Version) They asked: Should data sync instantly across devices? How? LocalStorage vs Redux vs React Query - which fits? Handling millions of products - how to avoid slow DOM? Accessibility → \"How would screen readers announce 'Item Added to Cart'?\" Key → More system & product thinking, less boilerplate. Round 3 - Technical Deep Dive (React + JS)JS Core → Closures, Event loop, async/await vs Promises React Internals → Why key props are critical in lists P\nSource: https://www.linkedin.com/posts/ankitkanojiya07_flipkart-flipkartinterview-interviewexperience-activity-7439166113780985857-E1pT\n\n6. Figma Software Engineer Interview: Process & Questions; published Tue, 27 Oct 2026 00:00:00 GMT\nCandidate reports describe an onsite of about four to five hours for experienced hires: coding, two system design rounds, behavioral and a project deep dive.\nSource: https://www.datainterview.com/blog",
+    "webSources": [
+      {
+        "title": "92 React, TypeScript and Node.js Interview Questions for Full Stack Roles in Banking | by Manish Khedekar | Oct, 2026 | JavaScript in Plain English",
+        "uri": "https://javascript.plainenglish.io/92-react-typescript-and-node-js-interview-questions-for-full-stack-roles-in-banking-e9908c6bb035",
+        "publishedAt": "Fri, 09 Oct 2026 18:57:27 GMT"
+      },
+      {
+        "title": "Figma Interview Guide 2026: Collaborative Editor Engineering, CRDTs, and Frontend Performance – techinterview",
+        "uri": "https://www.techinterview.org/companies/figma",
+        "publishedAt": "Wed, 22 Apr 2026 15:28:47 GMT"
+      },
+      {
+        "title": "Medium",
+        "uri": "https://medium.com/@roshan.justacademy/inside-the-figma-interview-room-what-hiring-panels-really-ask-a-uiux-designer-2a044b0e254e",
+        "publishedAt": "Fri, 30 Oct 2026 11:46:41 GMT"
+      },
+      {
+        "title": "Frontend Engineer Interview Questions 2026 (by Level) - KORE1",
+        "uri": "https://www.kore1.com/frontend-engineer-interview-questions-2026",
+        "publishedAt": "Sun, 28 Jun 2026 21:01:28 GMT"
+      },
+      {
+        "title": "Flipkart Frontend Interview Experience with 3+ Yrs Exp | Ankit Kanojiya posted on the topic | LinkedIn",
+        "uri": "https://www.linkedin.com/posts/ankitkanojiya07_flipkart-flipkartinterview-interviewexperience-activity-7439166113780985857-E1pT",
+        "publishedAt": "Sun, 05 Apr 2026 19:00:00 GMT"
+      },
+      {
+        "title": "Figma Software Engineer Interview: Process & Questions",
+        "uri": "https://www.datainterview.com/blog/figma-software-engineer-interview",
+        "publishedAt": "Tue, 27 Oct 2026 00:00:00 GMT"
+      }
+    ],
+    "webResearchStatus": "completed",
+    "chunkIds": [
+      "jd_db31a78e_c1",
+      "jd_db31a78e_c2",
+      "jd_db31a78e_c3",
+      "jd_db31a78e_c4",
+      "jd_db31a78e_c5",
+      "jd_db31a78e_c6"
+    ],
+    "schemaVersion": 2,
+    "createdAt": "2026-11-23T20:40:20.244Z"
+  },
+  {
+    "id": "jd_c6d782d2-0710-428e-8b5d-44ac134a3030",
+    "userId": "usr_4127c045-3112-4c5b-a584-d5137826305c",
+    "docType": "jd",
+    "sourceType": "text",
+    "charCount": 2612,
+    "rawText": "• Develops software consistent with Cisco ‘Design Thinking Principles’ with a focus on simplification and UX (User Experience) at its core, using secure coding practices, ensuring user privacy, and following software development best practices.\n\n• Partners with other teams including design and product management to create the right solution for the customers.\n\n• Creates technical design documentation to be used by the team as well as contributing to user documentation to be used by end users.\n\n• Debugs and addresses software issues during development and in production systems to support customers. Brings new ideas for product innovation and helps improve software development processes. What You’ll Do:\n\n• Communicates status and issues to the team\n\n• Shares experience and knowledge to support the team\n\n• Performs routine assignments that require basic knowledge and exposure to fundamental theories, principles, and concepts.\n\n• Collaborates effectively with own team.\n\n• Contributes to small projects and works with others on small features primarily focused on coding and testing.\n\n• Develops an understanding of the software development lifecycle and the various agile engineering practices (e.g., requirements analysis, design, coding, unit testing, acceptance testing), and assists on projects where these methods are applied.\n\n• Analyzes user requirements and works with others to understand impact on technical design features.\n\n• Writes correct code with assistance.\n\n• Supports test code refining and rewriting as part of testing and debugging.\n\n• Assists with tests for scaling for reliability and velocity.\n\n• Applies secure coding principles and follows secure coding guidelines.\n\n• Supports more senior team members in troubleshooting and debugging issues.\n\n• Proficient in at least one large area of the codebase (multiple services in a pillar) with a high-level understanding of other components. Minimum Qualifications:\n\n• Bachelors + 0 years of previous experience\n\n• Requires basic knowledge of theories, principles and concepts within a technical discipline; has exposure to current technologies through coursework or internship.\n\n• Deep interest in building technical expertise in Front-end technologies and intuitive user experiences for our customers.\n\nPreferred Qualifications Varies based on the team and business needs | Preferred Qualifications are desired education, experience, and skills that are in addition to Minimum Qualifications.\n\n• Worked with Front-end technologies like React, JavaScript\n\n• Have used Figma to review mockups and build exactly as the Figma mockup.",
+    "normalizedText": "• Develops software consistent with Cisco ‘Design Thinking Principles’ with a focus on simplification and UX (User Experience) at its core, using secure coding practices, ensuring user privacy, and following software development best practices.\n\n• Partners with other teams including design and product management to create the right solution for the customers.\n\n• Creates technical design documentation to be used by the team as well as contributing to user documentation to be used by end users.\n\n• Debugs and addresses software issues during development and in production systems to support customers. Brings new ideas for product innovation and helps improve software development processes. What You’ll Do:\n\n• Communicates status and issues to the team\n\n• Shares experience and knowledge to support the team\n\n• Performs routine assignments that require basic knowledge and exposure to fundamental theories, principles, and concepts.\n\n• Collaborates effectively with own team.\n\n• Contributes to small projects and works with others on small features primarily focused on coding and testing.\n\n• Develops an understanding of the software development lifecycle and the various agile engineering practices (e.g., requirements analysis, design, coding, unit testing, acceptance testing), and assists on projects where these methods are applied.\n\n• Analyzes user requirements and works with others to understand impact on technical design features.\n\n• Writes correct code with assistance.\n\n• Supports test code refining and rewriting as part of testing and debugging.\n\n• Assists with tests for scaling for reliability and velocity.\n\n• Applies secure coding principles and follows secure coding guidelines.\n\n• Supports more senior team members in troubleshooting and debugging issues.\n\n• Proficient in at least one large area of the codebase (multiple services in a pillar) with a high-level understanding of other components. Minimum Qualifications:\n\n• Bachelors + 0 years of previous experience\n\n• Requires basic knowledge of theories, principles and concepts within a technical discipline; has exposure to current technologies through coursework or internship.\n\n• Deep interest in building technical expertise in Front-end technologies and intuitive user experiences for our customers.\n\nPreferred Qualifications Varies based on the team and business needs | Preferred Qualifications are desired education, experience, and skills that are in addition to Minimum Qualifications.\n\n• Worked with Front-end technologies like React, JavaScript\n\n• Have used Figma to review mockups and build exactly as the Figma mockup.",
+    "analysis": {
+      "jobTitle": "Unknown",
+      "companyName": "Unknown",
+      "requiredTechnicalSkills": [],
+      "preferredSkills": [
+        "Worked with Front-end technologies like React, JavaScript",
+        "Have used Figma to review mockups and build exactly as the Figma mockup"
+      ],
+      "responsibilities": [
+        "Develops software consistent with Cisco ‘Design Thinking Principles’ with a focus on simplification and UX (User Experience) at its core, using secure coding practices, ensuring user privacy, and following software development best practices.",
+        "Partners with other teams including design and product management to create the right solution for the customers.",
+        "Creates technical design documentation to be used by the team as well as contributing to user documentation to be used by end users.",
+        "Debugs and addresses software issues during development and in production systems to support customers. Brings new ideas for product innovation and helps improve software development processes.",
+        "Communicates status and issues to the team",
+        "Shares experience and knowledge to support the team",
+        "Performs routine assignments that require basic knowledge and exposure to fundamental theories, principles, and concepts.",
+        "Collaborates effectively with own team.",
+        "Contributes to small projects and works with others on small features primarily focused on coding and testing.",
+        "Develops an understanding of the software development lifecycle and the various agile engineering practices (e.g., requirements analysis, design, coding, unit testing, acceptance testing), and assists on projects where these methods are applied.",
+        "Analyzes user requirements and works with others to understand impact on technical design features.",
+        "Writes correct code with assistance.",
+        "Supports test code refining and rewriting as part of testing and debugging.",
+        "Assists with tests for scaling for reliability and velocity.",
+        "Applies secure coding principles and follows secure coding guidelines.",
+        "Supports more senior team members in troubleshooting and debugging issues.",
+        "Proficient in at least one large area of the codebase (multiple services in a pillar) with a high-level understanding of other components."
+      ],
+      "requiredExperience": "Bachelors + 0 years of previous experience",
+      "toolsAndTechnologies": [
+        "React",
+        "JavaScript",
+        "Figma"
+      ],
+      "importantQualifications": [
+        "Bachelors + 0 years of previous experience",
+        "Requires basic knowledge of theories, principles and concepts within a technical discipline; has exposure to current technologies through coursework or internship.",
+        "Deep interest in building technical expertise in Front-end technologies and intuitive user experiences for our customers.",
+        "Proficient in at least one large area of the codebase (multiple services in a pillar) with a high-level understanding of other components."
+      ]
+    },
+    "analysisPromptVersion": "doc-analysis-v1",
+    "webResearchSummary": "1. 92 React, TypeScript and Node.js Interview Questions for Full Stack Roles in Banking | by Manish Khedekar | Oct, 2026 | JavaScript in Plain English; published Fri, 09 Oct 2026 18:57:27 GMT\nThis is the list I ended up with: 92 questions across 13 topics, built from candidate reports and bank job postings. It is the companion to my Java and Spring Boot list for the backend half of the same round.\n\nHow to use it: answer each question out loud first, then check the short answer. Lead with the core idea and go deeper only when the interviewer asks.\n\n## 1. JavaScript core\n\nReact rounds often start here. Screeners want to see that you know the language under the framework.\n\nQ1. Explain the event loop. What does this print?\n\nJavaScript runs on one call stack. When the stack is empty, the event loop runs all microtasks (promise callbacks, `queueMicrotask`), then the next macrotask (`se\nSource: https://javascript.plainenglish.io/92-react-typescript-and-node-js-interview-questions-for-full-stack-roles-in-banking-e9908c6bb035\n\n2. Figma Interview Guide 2026: Collaborative Editor Engineering, CRDTs, and Frontend Performance – techinterview; published Wed, 22 Apr 2026 15:28:47 GMT\n- Frontend deep-dive (frontend roles): a meaty discussion of browser rendering, reflows, paint, WebGL or canvas rendering, memory profiling, bundle splitting. Figma’s rendering pipeline is custom — they expect you to have real opinions about this layer, not just React lifecycle knowledge.\n- Craft / product sense: you’ll get shown a Figma feature and asked what you’d improve. Not a trick — they want to know if you engage with the product as a user.\n- Behavioral / team fit: past projects, conflict, how you handle ambiguity, how you think about design-engineering partnership. Figma has an unusually tight design-engineering loop. [...] - Coding (1–2 rounds): one classic data-structures problem, \nSource: https://www.techinterview.org/companies/figma\n\n3. Medium; published Fri, 30 Oct 2026 11:46:41 GMT\n# Inside the Figma Interview Room: What Hiring Panels Really Ask a UIUX Designer\n\nNobody warns you that a design interview feels a little like a driving test. You know the road, you have practised the moves, and yet the moment someone sits beside you with a clipboard, your hands forget what they know. A uiux designer walking into a hiring round today faces exactly that mix of nerves and scrutiny, because the panel is not only watching what you build. They are watching how you think, how you talk about your choices, and how calmly you recover when a question catches you off guard. This guide walks through the Figma interview questions that come up again and again, the thinking behind them, an\nSource: https://medium.com/@roshan.justacademy/inside-the-figma-interview-room-what-hiring-panels-really-ask-a-uiux-designer-2a044b0e254e\n\n4. Frontend Engineer Interview Questions 2026 (by Level) - KORE1; published Sun, 28 Jun 2026 21:01:28 GMT\nLast year we ran a senior frontend search for a healthcare SaaS client in the Costa Mesa area. React and TypeScript, a patient-facing portal, real compliance weight on it. Their loop was two algorithm rounds and a round of React trivia. Fast, tidy, and it produced demos that looked great in the room.\n\nThen their Core Web Vitals fell over in the field. Lab scores near perfect, INP in the field sitting in the “poor” band for a big slice of their patients, most of them on older Android phones over carrier networks. Real users. Real conditions. And an accessibility complaint landed, because a custom modal trapped keyboard focus and a screen reader user could not get out of it. [...] Last one, an\nSource: https://www.kore1.com/frontend-engineer-interview-questions-2026\n\n5. Flipkart Frontend Interview Experience with 3+ Yrs Exp | Ankit Kanojiya posted on the topic | LinkedIn; published Sun, 05 Apr 2026 19:00:00 GMT\n20 Ensure smooth scroll (no jank) Optimize performance with virtualization ← Lesson → They cared more about scalable Ul handling than tricky puzzles. ◆ Round 2 - Frontend System Design (45 mins) Scenario → Design Flipkart's Cart System (Mini Version) They asked: Should data sync instantly across devices? How? LocalStorage vs Redux vs React Query - which fits? Handling millions of products - how to avoid slow DOM? Accessibility → \"How would screen readers announce 'Item Added to Cart'?\" Key → More system & product thinking, less boilerplate. Round 3 - Technical Deep Dive (React + JS)JS Core → Closures, Event loop, async/await vs Promises React Internals → Why key props are critical in lists P\nSource: https://www.linkedin.com/posts/ankitkanojiya07_flipkart-flipkartinterview-interviewexperience-activity-7439166113780985857-E1pT\n\n6. Figma Software Engineer Interview: Process & Questions; published Tue, 27 Oct 2026 00:00:00 GMT\nCandidate reports describe an onsite of about four to five hours for experienced hires: coding, two system design rounds, behavioral and a project deep dive.\nSource: https://www.datainterview.com/blog",
+    "webSources": [
+      {
+        "title": "92 React, TypeScript and Node.js Interview Questions for Full Stack Roles in Banking | by Manish Khedekar | Oct, 2026 | JavaScript in Plain English",
+        "uri": "https://javascript.plainenglish.io/92-react-typescript-and-node-js-interview-questions-for-full-stack-roles-in-banking-e9908c6bb035",
+        "publishedAt": "Fri, 09 Oct 2026 18:57:27 GMT"
+      },
+      {
+        "title": "Figma Interview Guide 2026: Collaborative Editor Engineering, CRDTs, and Frontend Performance – techinterview",
+        "uri": "https://www.techinterview.org/companies/figma",
+        "publishedAt": "Wed, 22 Apr 2026 15:28:47 GMT"
+      },
+      {
+        "title": "Medium",
+        "uri": "https://medium.com/@roshan.justacademy/inside-the-figma-interview-room-what-hiring-panels-really-ask-a-uiux-designer-2a044b0e254e",
+        "publishedAt": "Fri, 30 Oct 2026 11:46:41 GMT"
+      },
+      {
+        "title": "Frontend Engineer Interview Questions 2026 (by Level) - KORE1",
+        "uri": "https://www.kore1.com/frontend-engineer-interview-questions-2026",
+        "publishedAt": "Sun, 28 Jun 2026 21:01:28 GMT"
+      },
+      {
+        "title": "Flipkart Frontend Interview Experience with 3+ Yrs Exp | Ankit Kanojiya posted on the topic | LinkedIn",
+        "uri": "https://www.linkedin.com/posts/ankitkanojiya07_flipkart-flipkartinterview-interviewexperience-activity-7439166113780985857-E1pT",
+        "publishedAt": "Sun, 05 Apr 2026 19:00:00 GMT"
+      },
+      {
+        "title": "Figma Software Engineer Interview: Process & Questions",
+        "uri": "https://www.datainterview.com/blog/figma-software-engineer-interview",
+        "publishedAt": "Tue, 27 Oct 2026 00:00:00 GMT"
+      }
+    ],
+    "webResearchStatus": "completed",
+    "chunkIds": [
+      "jd_134a3030_c1",
+      "jd_134a3030_c2",
+      "jd_134a3030_c3",
+      "jd_134a3030_c4",
+      "jd_134a3030_c5",
+      "jd_134a3030_c6"
+    ],
+    "schemaVersion": 2,
+    "createdAt": "2026-11-23T20:28:41.632Z"
+  },
+  {
+    "id": "jd_6103f9b6-fdfe-486f-a9b8-a3e54b828578",
+    "userId": "usr_4127c045-3112-4c5b-a584-d5137826305c",
+    "docType": "jd",
+    "sourceType": "text",
+    "charCount": 2612,
+    "rawText": "• Develops software consistent with Cisco ‘Design Thinking Principles’ with a focus on simplification and UX (User Experience) at its core, using secure coding practices, ensuring user privacy, and following software development best practices.\n\n• Partners with other teams including design and product management to create the right solution for the customers.\n\n• Creates technical design documentation to be used by the team as well as contributing to user documentation to be used by end users.\n\n• Debugs and addresses software issues during development and in production systems to support customers. Brings new ideas for product innovation and helps improve software development processes. What You’ll Do:\n\n• Communicates status and issues to the team\n\n• Shares experience and knowledge to support the team\n\n• Performs routine assignments that require basic knowledge and exposure to fundamental theories, principles, and concepts.\n\n• Collaborates effectively with own team.\n\n• Contributes to small projects and works with others on small features primarily focused on coding and testing.\n\n• Develops an understanding of the software development lifecycle and the various agile engineering practices (e.g., requirements analysis, design, coding, unit testing, acceptance testing), and assists on projects where these methods are applied.\n\n• Analyzes user requirements and works with others to understand impact on technical design features.\n\n• Writes correct code with assistance.\n\n• Supports test code refining and rewriting as part of testing and debugging.\n\n• Assists with tests for scaling for reliability and velocity.\n\n• Applies secure coding principles and follows secure coding guidelines.\n\n• Supports more senior team members in troubleshooting and debugging issues.\n\n• Proficient in at least one large area of the codebase (multiple services in a pillar) with a high-level understanding of other components. Minimum Qualifications:\n\n• Bachelors + 0 years of previous experience\n\n• Requires basic knowledge of theories, principles and concepts within a technical discipline; has exposure to current technologies through coursework or internship.\n\n• Deep interest in building technical expertise in Front-end technologies and intuitive user experiences for our customers.\n\nPreferred Qualifications Varies based on the team and business needs | Preferred Qualifications are desired education, experience, and skills that are in addition to Minimum Qualifications.\n\n• Worked with Front-end technologies like React, JavaScript\n\n• Have used Figma to review mockups and build exactly as the Figma mockup.",
+    "normalizedText": "• Develops software consistent with Cisco ‘Design Thinking Principles’ with a focus on simplification and UX (User Experience) at its core, using secure coding practices, ensuring user privacy, and following software development best practices.\n\n• Partners with other teams including design and product management to create the right solution for the customers.\n\n• Creates technical design documentation to be used by the team as well as contributing to user documentation to be used by end users.\n\n• Debugs and addresses software issues during development and in production systems to support customers. Brings new ideas for product innovation and helps improve software development processes. What You’ll Do:\n\n• Communicates status and issues to the team\n\n• Shares experience and knowledge to support the team\n\n• Performs routine assignments that require basic knowledge and exposure to fundamental theories, principles, and concepts.\n\n• Collaborates effectively with own team.\n\n• Contributes to small projects and works with others on small features primarily focused on coding and testing.\n\n• Develops an understanding of the software development lifecycle and the various agile engineering practices (e.g., requirements analysis, design, coding, unit testing, acceptance testing), and assists on projects where these methods are applied.\n\n• Analyzes user requirements and works with others to understand impact on technical design features.\n\n• Writes correct code with assistance.\n\n• Supports test code refining and rewriting as part of testing and debugging.\n\n• Assists with tests for scaling for reliability and velocity.\n\n• Applies secure coding principles and follows secure coding guidelines.\n\n• Supports more senior team members in troubleshooting and debugging issues.\n\n• Proficient in at least one large area of the codebase (multiple services in a pillar) with a high-level understanding of other components. Minimum Qualifications:\n\n• Bachelors + 0 years of previous experience\n\n• Requires basic knowledge of theories, principles and concepts within a technical discipline; has exposure to current technologies through coursework or internship.\n\n• Deep interest in building technical expertise in Front-end technologies and intuitive user experiences for our customers.\n\nPreferred Qualifications Varies based on the team and business needs | Preferred Qualifications are desired education, experience, and skills that are in addition to Minimum Qualifications.\n\n• Worked with Front-end technologies like React, JavaScript\n\n• Have used Figma to review mockups and build exactly as the Figma mockup.",
+    "analysis": {
+      "jobTitle": "Unknown",
+      "companyName": "Unknown",
+      "requiredTechnicalSkills": [],
+      "preferredSkills": [],
+      "responsibilities": [
+        "Develops software consistent with Cisco ‘Design Thinking Principles’ with a focus on simplification and UX (User Experience) at its core, using secure coding practices, ensuring user privacy, and following software development best practices.",
+        "Partners with other teams including design and product management to create the right solution for the customers.",
+        "Creates technical design documentation to be used by the team as well as contributing to user documentation to be used by end users.",
+        "Debugs and addresses software issues during development and in production systems to support customers. Brings new ideas for product innovation and helps improve software development processes.",
+        "Communicates status and issues to the team",
+        "Shares experience and knowledge to support the team",
+        "Performs routine assignments that require basic knowledge and exposure to fundamental theories, principles, and concepts.",
+        "Collaborates effectively with own team.",
+        "Contributes to small projects and works with others on small features primarily focused on coding and testing.",
+        "Develops an understanding of the software development lifecycle and the various agile engineering practices (e.g., requirements analysis, design, coding, unit testing, acceptance testing), and assists on projects where these methods are applied.",
+        "Analyzes user requirements and works with others to understand impact on technical design features.",
+        "Writes correct code with assistance.",
+        "Supports test code refining and rewriting as part of testing and debugging.",
+        "Assists with tests for scaling for reliability and velocity.",
+        "Applies secure coding principles and follows secure coding guidelines.",
+        "Supports more senior team members in troubleshooting and debugging issues.",
+        "Proficient in at least one large area of the codebase (multiple services in a pillar) with a high-level understanding of other components."
+      ],
+      "requiredExperience": "0 years",
+      "toolsAndTechnologies": [],
+      "importantQualifications": []
+    },
+    "analysisPromptVersion": "doc-analysis-v1",
+    "webResearchSummary": "",
+    "webSources": [],
+    "webResearchStatus": "skipped",
+    "chunkIds": [
+      "jd_4b828578_c1",
+      "jd_4b828578_c2",
+      "jd_4b828578_c3",
+      "jd_4b828578_c4",
+      "jd_4b828578_c5",
+      "jd_4b828578_c6"
+    ],
+    "schemaVersion": 2,
+    "createdAt": "2026-11-23T20:25:58.315Z"
+  },
+  {
+    "id": "jd_d4225ade-0a33-4961-8875-55d1fd1c3b59",
+    "userId": "usr_4127c045-3112-4c5b-a584-d5137826305c",
+    "docType": "jd",
+    "sourceType": "text",
+    "charCount": 2612,
+    "rawText": "• Develops software consistent with Cisco ‘Design Thinking Principles’ with a focus on simplification and UX (User Experience) at its core, using secure coding practices, ensuring user privacy, and following software development best practices.\n\n• Partners with other teams including design and product management to create the right solution for the customers.\n\n• Creates technical design documentation to be used by the team as well as contributing to user documentation to be used by end users.\n\n• Debugs and addresses software issues during development and in production systems to support customers. Brings new ideas for product innovation and helps improve software development processes. What You’ll Do:\n\n• Communicates status and issues to the team\n\n• Shares experience and knowledge to support the team\n\n• Performs routine assignments that require basic knowledge and exposure to fundamental theories, principles, and concepts.\n\n• Collaborates effectively with own team.\n\n• Contributes to small projects and works with others on small features primarily focused on coding and testing.\n\n• Develops an understanding of the software development lifecycle and the various agile engineering practices (e.g., requirements analysis, design, coding, unit testing, acceptance testing), and assists on projects where these methods are applied.\n\n• Analyzes user requirements and works with others to understand impact on technical design features.\n\n• Writes correct code with assistance.\n\n• Supports test code refining and rewriting as part of testing and debugging.\n\n• Assists with tests for scaling for reliability and velocity.\n\n• Applies secure coding principles and follows secure coding guidelines.\n\n• Supports more senior team members in troubleshooting and debugging issues.\n\n• Proficient in at least one large area of the codebase (multiple services in a pillar) with a high-level understanding of other components. Minimum Qualifications:\n\n• Bachelors + 0 years of previous experience\n\n• Requires basic knowledge of theories, principles and concepts within a technical discipline; has exposure to current technologies through coursework or internship.\n\n• Deep interest in building technical expertise in Front-end technologies and intuitive user experiences for our customers.\n\nPreferred Qualifications Varies based on the team and business needs | Preferred Qualifications are desired education, experience, and skills that are in addition to Minimum Qualifications.\n\n• Worked with Front-end technologies like React, JavaScript\n\n• Have used Figma to review mockups and build exactly as the Figma mockup.",
+    "normalizedText": "• Develops software consistent with Cisco ‘Design Thinking Principles’ with a focus on simplification and UX (User Experience) at its core, using secure coding practices, ensuring user privacy, and following software development best practices.\n\n• Partners with other teams including design and product management to create the right solution for the customers.\n\n• Creates technical design documentation to be used by the team as well as contributing to user documentation to be used by end users.\n\n• Debugs and addresses software issues during development and in production systems to support customers. Brings new ideas for product innovation and helps improve software development processes. What You’ll Do:\n\n• Communicates status and issues to the team\n\n• Shares experience and knowledge to support the team\n\n• Performs routine assignments that require basic knowledge and exposure to fundamental theories, principles, and concepts.\n\n• Collaborates effectively with own team.\n\n• Contributes to small projects and works with others on small features primarily focused on coding and testing.\n\n• Develops an understanding of the software development lifecycle and the various agile engineering practices (e.g., requirements analysis, design, coding, unit testing, acceptance testing), and assists on projects where these methods are applied.\n\n• Analyzes user requirements and works with others to understand impact on technical design features.\n\n• Writes correct code with assistance.\n\n• Supports test code refining and rewriting as part of testing and debugging.\n\n• Assists with tests for scaling for reliability and velocity.\n\n• Applies secure coding principles and follows secure coding guidelines.\n\n• Supports more senior team members in troubleshooting and debugging issues.\n\n• Proficient in at least one large area of the codebase (multiple services in a pillar) with a high-level understanding of other components. Minimum Qualifications:\n\n• Bachelors + 0 years of previous experience\n\n• Requires basic knowledge of theories, principles and concepts within a technical discipline; has exposure to current technologies through coursework or internship.\n\n• Deep interest in building technical expertise in Front-end technologies and intuitive user experiences for our customers.\n\nPreferred Qualifications Varies based on the team and business needs | Preferred Qualifications are desired education, experience, and skills that are in addition to Minimum Qualifications.\n\n• Worked with Front-end technologies like React, JavaScript\n\n• Have used Figma to review mockups and build exactly as the Figma mockup.",
+    "analysis": {
+      "jobTitle": "Unknown",
+      "companyName": "Cisco",
+      "requiredTechnicalSkills": [
+        "Front-end technologies",
+        "secure coding practices",
+        "agile engineering practices",
+        "requirements analysis",
+        "design",
+        "coding",
+        "unit testing",
+        "acceptance testing"
+      ],
+      "preferredSkills": [
+        "Worked with Front-end technologies like React, JavaScript",
+        "Have used Figma to review mockups and build exactly as the Figma mockup"
+      ],
+      "responsibilities": [
+        "Develops software consistent with Cisco ‘Design Thinking Principles’ with a focus on simplification and UX (User Experience) at its core, using secure coding practices, ensuring user privacy, and following software development best practices.",
+        "Partners with other teams including design and product management to create the right solution for the customers.",
+        "Creates technical design documentation to be used by the team as well as contributing to user documentation to be used by end users.",
+        "Debugs and addresses software issues during development and in production systems to support customers. Brings new ideas for product innovation and helps improve software development processes.",
+        "Communicates status and issues to the team",
+        "Shares experience and knowledge to support the team",
+        "Performs routine assignments that require basic knowledge and exposure to fundamental theories, principles, and concepts.",
+        "Collaborates effectively with own team.",
+        "Contributes to small projects and works with others on small features primarily focused on coding and testing.",
+        "Develops an understanding of the software development lifecycle and the various agile engineering practices (e.g., requirements analysis, design, coding, unit testing, acceptance testing), and assists on projects where these methods are applied.",
+        "Analyzes user requirements and works with others to understand impact on technical design features.",
+        "Writes correct code with assistance.",
+        "Supports test code refining and rewriting as part of testing and debugging.",
+        "Assists with tests for scaling for reliability and velocity.",
+        "Applies secure coding principles and follows secure coding guidelines.",
+        "Supports more senior team members in troubleshooting and debugging issues."
+      ],
+      "requiredExperience": "Bachelors + 0 years of previous experience",
+      "toolsAndTechnologies": [
+        "React",
+        "JavaScript",
+        "Figma"
+      ],
+      "importantQualifications": [
+        "Bachelors + 0 years of previous experience",
+        "Requires basic knowledge of theories, principles and concepts within a technical discipline; has exposure to current technologies through coursework or internship.",
+        "Deep interest in building technical expertise in Front-end technologies and intuitive user experiences for our customers."
+      ]
+    },
+    "analysisPromptVersion": "doc-analysis-v1",
+    "webResearchSummary": "I’m sorry, but I don’t have enough specific information about the “Unknown” role at Cisco to provide a factual summary of its engineering stack, product domain, or current role expectations. If you can share more details (e.g., the job title, posting, or source), I’ll be happy to help summarize the relevant information.",
+    "webSources": [],
+    "webResearchStatus": "completed",
+    "chunkIds": [
+      "jd_fd1c3b59_c1",
+      "jd_fd1c3b59_c2",
+      "jd_fd1c3b59_c3",
+      "jd_fd1c3b59_c4",
+      "jd_fd1c3b59_c5",
+      "jd_fd1c3b59_c6"
+    ],
+    "schemaVersion": 2,
+    "createdAt": "2026-11-23T20:18:43.924Z"
+  },
+  {
+    "id": "jd_50c425e3-4e5e-4d44-b703-daf792698ed9",
+    "userId": "usr_171d82fd-f2c0-4e5f-ab5e-0869494f26d8",
+    "docType": "jd",
+    "sourceType": "text",
+    "charCount": 2612,
+    "rawText": "• Develops software consistent with Cisco ‘Design Thinking Principles’ with a focus on simplification and UX (User Experience) at its core, using secure coding practices, ensuring user privacy, and following software development best practices.\n\n• Partners with other teams including design and product management to create the right solution for the customers.\n\n• Creates technical design documentation to be used by the team as well as contributing to user documentation to be used by end users.\n\n• Debugs and addresses software issues during development and in production systems to support customers. Brings new ideas for product innovation and helps improve software development processes. What You’ll Do:\n\n• Communicates status and issues to the team\n\n• Shares experience and knowledge to support the team\n\n• Performs routine assignments that require basic knowledge and exposure to fundamental theories, principles, and concepts.\n\n• Collaborates effectively with own team.\n\n• Contributes to small projects and works with others on small features primarily focused on coding and testing.\n\n• Develops an understanding of the software development lifecycle and the various agile engineering practices (e.g., requirements analysis, design, coding, unit testing, acceptance testing), and assists on projects where these methods are applied.\n\n• Analyzes user requirements and works with others to understand impact on technical design features.\n\n• Writes correct code with assistance.\n\n• Supports test code refining and rewriting as part of testing and debugging.\n\n• Assists with tests for scaling for reliability and velocity.\n\n• Applies secure coding principles and follows secure coding guidelines.\n\n• Supports more senior team members in troubleshooting and debugging issues.\n\n• Proficient in at least one large area of the codebase (multiple services in a pillar) with a high-level understanding of other components. Minimum Qualifications:\n\n• Bachelors + 0 years of previous experience\n\n• Requires basic knowledge of theories, principles and concepts within a technical discipline; has exposure to current technologies through coursework or internship.\n\n• Deep interest in building technical expertise in Front-end technologies and intuitive user experiences for our customers.\n\nPreferred Qualifications Varies based on the team and business needs | Preferred Qualifications are desired education, experience, and skills that are in addition to Minimum Qualifications.\n\n• Worked with Front-end technologies like React, JavaScript\n\n• Have used Figma to review mockups and build exactly as the Figma mockup.",
+    "normalizedText": "• Develops software consistent with Cisco ‘Design Thinking Principles’ with a focus on simplification and UX (User Experience) at its core, using secure coding practices, ensuring user privacy, and following software development best practices.\n\n• Partners with other teams including design and product management to create the right solution for the customers.\n\n• Creates technical design documentation to be used by the team as well as contributing to user documentation to be used by end users.\n\n• Debugs and addresses software issues during development and in production systems to support customers. Brings new ideas for product innovation and helps improve software development processes. What You’ll Do:\n\n• Communicates status and issues to the team\n\n• Shares experience and knowledge to support the team\n\n• Performs routine assignments that require basic knowledge and exposure to fundamental theories, principles, and concepts.\n\n• Collaborates effectively with own team.\n\n• Contributes to small projects and works with others on small features primarily focused on coding and testing.\n\n• Develops an understanding of the software development lifecycle and the various agile engineering practices (e.g., requirements analysis, design, coding, unit testing, acceptance testing), and assists on projects where these methods are applied.\n\n• Analyzes user requirements and works with others to understand impact on technical design features.\n\n• Writes correct code with assistance.\n\n• Supports test code refining and rewriting as part of testing and debugging.\n\n• Assists with tests for scaling for reliability and velocity.\n\n• Applies secure coding principles and follows secure coding guidelines.\n\n• Supports more senior team members in troubleshooting and debugging issues.\n\n• Proficient in at least one large area of the codebase (multiple services in a pillar) with a high-level understanding of other components. Minimum Qualifications:\n\n• Bachelors + 0 years of previous experience\n\n• Requires basic knowledge of theories, principles and concepts within a technical discipline; has exposure to current technologies through coursework or internship.\n\n• Deep interest in building technical expertise in Front-end technologies and intuitive user experiences for our customers.\n\nPreferred Qualifications Varies based on the team and business needs | Preferred Qualifications are desired education, experience, and skills that are in addition to Minimum Qualifications.\n\n• Worked with Front-end technologies like React, JavaScript\n\n• Have used Figma to review mockups and build exactly as the Figma mockup.",
+    "analysis": {
+      "jobTitle": "Unknown",
+      "companyName": "Cisco",
+      "requiredTechnicalSkills": [
+        "Secure coding practices",
+        "Requirements analysis",
+        "Design",
+        "Coding",
+        "Unit testing",
+        "Acceptance testing",
+        "Debugging",
+        "Troubleshooting"
+      ],
+      "preferredSkills": [
+        "Worked with Front-end technologies like React, JavaScript",
+        "Have used Figma to review mockups and build exactly as the Figma mockup"
+      ],
+      "responsibilities": [
+        "Develops software consistent with Cisco ‘Design Thinking Principles’ with a focus on simplification and UX (User Experience) at its core, using secure coding practices, ensuring user privacy, and following software development best practices.",
+        "Partners with other teams including design and product management to create the right solution for the customers.",
+        "Creates technical design documentation to be used by the team as well as contributing to user documentation to be used by end users.",
+        "Debugs and addresses software issues during development and in production systems to support customers.",
+        "Brings new ideas for product innovation and helps improve software development processes.",
+        "Communicates status and issues to the team",
+        "Shares experience and knowledge to support the team",
+        "Performs routine assignments that require basic knowledge and exposure to fundamental theories, principles, and concepts.",
+        "Collaborates effectively with own team.",
+        "Contributes to small projects and works with others on small features primarily focused on coding and testing.",
+        "Develops an understanding of the software development lifecycle and the various agile engineering practices (e.g., requirements analysis, design, coding, unit testing, acceptance testing), and assists on projects where these methods are applied.",
+        "Analyzes user requirements and works with others to understand impact on technical design features.",
+        "Writes correct code with assistance.",
+        "Supports test code refining and rewriting as part of testing and debugging.",
+        "Assists with tests for scaling for reliability and velocity.",
+        "Applies secure coding principles and follows secure coding guidelines.",
+        "Supports more senior team members in troubleshooting and debugging issues."
+      ],
+      "requiredExperience": "Bachelors + 0 years of previous experience",
+      "toolsAndTechnologies": [
+        "React",
+        "JavaScript",
+        "Figma"
+      ],
+      "importantQualifications": [
+        "Bachelors + 0 years of previous experience",
+        "Requires basic knowledge of theories, principles and concepts within a technical discipline; has exposure to current technologies through coursework or internship.",
+        "Deep interest in building technical expertise in Front-end technologies and intuitive user experiences for our customers."
+      ]
+    },
+    "analysisPromptVersion": "doc-analysis-v1",
+    "webResearchSummary": "I’m sorry, but I don’t have enough factual information about a specific “Unknown” position at Cisco to provide a verified summary of the engineering stack, product domain, and role expectations. If you can share more details or a job title, I’ll be happy to help.",
+    "webSources": [],
+    "webResearchStatus": "completed",
+    "chunkIds": [
+      "jd_92698ed9_c1",
+      "jd_92698ed9_c2",
+      "jd_92698ed9_c3",
+      "jd_92698ed9_c4",
+      "jd_92698ed9_c5",
+      "jd_92698ed9_c6"
+    ],
+    "schemaVersion": 2,
+    "createdAt": "2026-11-23T20:18:11.231Z"
+  },
+  {
+    "id": "res_4e4bb20d-1731-4c53-957c-263e6dda85b8",
+    "userId": "usr_4127c045-3112-4c5b-a584-d5137826305c",
+    "docType": "resume",
+    "sourceType": "pdf",
+    "fileName": "SDE_Resume_Divya_Ratna_Gautam (10).pdf",
+    "fileSizeBytes": 108829,
+    "pageCount": 1,
+    "charCount": 3581,
+    "rawText": "Divya Ratna Gautam\n+91 9956189165 — vayugautam249@gmail.com — LinkedIn — LeetCode — GitHub\nSummary\nSoftware Engineering student with hands-on experience building full-stack applications, REST APIs, and\nLLM-powered systems. Strong foundation in Data Structures & Algorithms,Object-Oriented Programming, DBMS,\nOperating Systems, and Computer Networks. Experienced with Python, Java, React, FastAPI, and SQL, with\nadditional experience building RAG and LLM-based applications.\nEducation\nHarcourt Butler Technical University, Kanpur September 2023 – Present\nBachelor of Technology in Information Technology (CGPA : 7.01)\nOxford Model Senior Secondary School, Kanpur CBSE\nSenior Secondary (Class XII) – 81%\nOxford Model Senior Secondary School, Kanpur CBSE\nSecondary (Class X) – 71%\nSkills\nLanguages: Python, Java, JavaScript, SQL\nSoftware Engineering: Data Structures & Algorithms, OOP, REST APIs, Debugging, Git/GitHub\nBackend: FastAPI, Java\nFrontend: React.js, HTML, CSS\nGenerative AI: LLMs, RAG, Prompt Engineering, Embeddings, Vector Search\nDatabases: MongoDB, MySQL\nFundamentals: DBMS, Operating Systems, Computer Networks\nProjects\nPayFlow Copilot – AI-Powered Payment Operations Assistant GitHub — Live\nPython, FastAPI, React, TypeScript, PostgreSQL, SQLAlchemy, Qdrant Cloud, Groq API, Gemini API, Razorpay\n• Built a full-stack payment operations platform using FastAPI, React, and PostgreSQL 16, implementing JWT\nauthentication and user-scoped transaction, conversation, dispute, and audit-log management through REST APIs.\n• Integrated Groq Chat Completions API with openai/gpt-oss-120b for tool-calling conversations and Google’s Gemini\nEmbedding API with gemini-embedding-001 (768 dimensions) for semantic policy retrieval using Qdrant Cloud.\n• Implemented policy-document ingestion and retrieval with user/document metadata filtering, returning source-backed\ncitations; developed deterministic payment-failure analysis to identify failure reasons and retry eligibility.\n• Integrated Razorpay Standard Checkout (Test Mode) with order creation, HMAC-SHA256 payment-signature verification,\nwebhook verification, and failure reconciliation; implemented reviewable dispute drafts with evidence classification and audit\nlogging.\nLearnMate AI – Full-Stack RAG Learning Platform GitHub — Live\nPython, FastAPI, Qdrant, Gemini Embeddings API, Groq API, Pydantic\n• Engineered a Python-based Retrieval-Augmented Generation (RAG) pipeline using PyPDF for document ingestion,\nrecursive text splitting with 1,000-character chunks and 200-character overlap, and metadata-aware document processing.\n• Built a semantic retrieval system using Gemini embeddings and Qdrant Vector Database, retrieving the top 5 relevant\nchunks per query with metadata filtering and configurable similarity thresholds.\n• Integrated Groq’s ‘openai/gpt-oss-120b’ LLM for context-grounded question answering, with an 8,000-token context budget,\n800-token generation limit, and conversation history management.\n• Developed FastAPI REST endpoints for document ingestion and AI-powered learning workflows, incorporating Pydantic\nvalidation, structured error handling, retry logic, and automated evaluation of retrieval relevance and answer quality.\nAchievements\n• LeetCode Knight – Solved 1,300+ DSA problems across competitive programming platforms; peak LeetCode rating:\n2053.\n• CodeChef 3-Star – Peak rating: 1650; participated in multiple competitive programming contests.\n• Smart India Hackathon 2025 – Selected among the top teams at the HBTU internal hackathon.\n• GATE 2026 (CS & IT) – Score: 363; AIR: 25,584.",
+    "normalizedText": "Divya Ratna Gautam\n+91 9956189165 — vayugautam249@gmail.com — LinkedIn — LeetCode — GitHub\nSummary\nSoftware Engineering student with hands-on experience building full-stack applications, REST APIs, and\nLLM-powered systems. Strong foundation in Data Structures & Algorithms,Object-Oriented Programming, DBMS,\nOperating Systems, and Computer Networks. Experienced with Python, Java, React, FastAPI, and SQL, with\nadditional experience building RAG and LLM-based applications.\nEducation\nHarcourt Butler Technical University, Kanpur September 2023 – Present\nBachelor of Technology in Information Technology (CGPA : 7.01)\nOxford Model Senior Secondary School, Kanpur CBSE\nSenior Secondary (Class XII) – 81%\nOxford Model Senior Secondary School, Kanpur CBSE\nSecondary (Class X) – 71%\nSkills\nLanguages: Python, Java, JavaScript, SQL\nSoftware Engineering: Data Structures & Algorithms, OOP, REST APIs, Debugging, Git/GitHub\nBackend: FastAPI, Java\nFrontend: React.js, HTML, CSS\nGenerative AI: LLMs, RAG, Prompt Engineering, Embeddings, Vector Search\nDatabases: MongoDB, MySQL\nFundamentals: DBMS, Operating Systems, Computer Networks\nProjects\nPayFlow Copilot – AI-Powered Payment Operations Assistant GitHub — Live\nPython, FastAPI, React, TypeScript, PostgreSQL, SQLAlchemy, Qdrant Cloud, Groq API, Gemini API, Razorpay\n• Built a full-stack payment operations platform using FastAPI, React, and PostgreSQL 16, implementing JWT\nauthentication and user-scoped transaction, conversation, dispute, and audit-log management through REST APIs.\n• Integrated Groq Chat Completions API with openai/gpt-oss-120b for tool-calling conversations and Google’s Gemini\nEmbedding API with gemini-embedding-001 (768 dimensions) for semantic policy retrieval using Qdrant Cloud.\n• Implemented policy-document ingestion and retrieval with user/document metadata filtering, returning source-backed\ncitations; developed deterministic payment-failure analysis to identify failure reasons and retry eligibility.\n• Integrated Razorpay Standard Checkout (Test Mode) with order creation, HMAC-SHA256 payment-signature verification,\nwebhook verification, and failure reconciliation; implemented reviewable dispute drafts with evidence classification and audit\nlogging.\nLearnMate AI – Full-Stack RAG Learning Platform GitHub — Live\nPython, FastAPI, Qdrant, Gemini Embeddings API, Groq API, Pydantic\n• Engineered a Python-based Retrieval-Augmented Generation (RAG) pipeline using PyPDF for document ingestion,\nrecursive text splitting with 1,000-character chunks and 200-character overlap, and metadata-aware document processing.\n• Built a semantic retrieval system using Gemini embeddings and Qdrant Vector Database, retrieving the top 5 relevant\nchunks per query with metadata filtering and configurable similarity thresholds.\n• Integrated Groq’s ‘openai/gpt-oss-120b’ LLM for context-grounded question answering, with an 8,000-token context budget,\n800-token generation limit, and conversation history management.\n• Developed FastAPI REST endpoints for document ingestion and AI-powered learning workflows, incorporating Pydantic\nvalidation, structured error handling, retry logic, and automated evaluation of retrieval relevance and answer quality.\nAchievements\n• LeetCode Knight – Solved 1,300+ DSA problems across competitive programming platforms; peak LeetCode rating:\n2053.\n• CodeChef 3-Star – Peak rating: 1650; participated in multiple competitive programming contests.\n• Smart India Hackathon 2025 – Selected among the top teams at the HBTU internal hackathon.\n• GATE 2026 (CS & IT) – Score: 363; AIR: 25,584.",
+    "analysis": {
+      "candidateSkills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "SQL",
+        "Data Structures & Algorithms",
+        "OOP",
+        "REST APIs",
+        "Debugging",
+        "Git/GitHub",
+        "FastAPI",
+        "React.js",
+        "HTML",
+        "CSS",
+        "LLMs",
+        "RAG",
+        "Prompt Engineering",
+        "Embeddings",
+        "Vector Search",
+        "MongoDB",
+        "MySQL",
+        "DBMS",
+        "Operating Systems",
+        "Computer Networks"
+      ],
+      "workExperience": [],
+      "projects": [
+        {
+          "name": "PayFlow Copilot – AI-Powered Payment Operations Assistant",
+          "description": "Built a full-stack payment operations platform using FastAPI, React, and PostgreSQL 16, implementing JWT authentication and user-scoped transaction, conversation, dispute, and audit-log management through REST APIs. Integrated Groq Chat Completions API with openai/gpt-oss-120b for tool-calling conversations and Google’s Gemini Embedding API with gemini-embedding-001 (768 dimensions) for semantic policy retrieval using Qdrant Cloud. Implemented policy-document ingestion and retrieval with user/document metadata filtering, returning source-backed citations; developed deterministic payment-failure analysis to identify failure reasons and retry eligibility. Integrated Razorpay Standard Checkout (Test Mode) with order creation, HMAC-SHA256 payment-signature verification, webhook verification, and failure reconciliation; implemented reviewable dispute drafts with evidence classification and audit logging.",
+          "technologies": [
+            "Python",
+            "FastAPI",
+            "React",
+            "TypeScript",
+            "PostgreSQL",
+            "SQLAlchemy",
+            "Qdrant Cloud",
+            "Groq API",
+            "Gemini API",
+            "Razorpay"
+          ]
+        },
+        {
+          "name": "LearnMate AI – Full-Stack RAG Learning Platform",
+          "description": "Engineered a Python-based Retrieval-Augmented Generation (RAG) pipeline using PyPDF for document ingestion, recursive text splitting with 1,000-character chunks and 200-character overlap, and metadata-aware document processing. Built a semantic retrieval system using Gemini embeddings and Qdrant Vector Database, retrieving the top 5 relevant chunks per query with metadata filtering and configurable similarity thresholds. Integrated Groq’s ‘openai/gpt-oss-120b’ LLM for context-grounded question answering, with an 8,000-token context budget, 800-token generation limit, and conversation history management. Developed FastAPI REST endpoints for document ingestion and AI-powered learning workflows, incorporating Pydantic validation, structured error handling, retry logic, and automated evaluation of retrieval relevance and answer quality.",
+          "technologies": [
+            "Python",
+            "FastAPI",
+            "Qdrant",
+            "Gemini Embeddings API",
+            "Groq API",
+            "Pydantic"
+          ]
+        }
+      ],
+      "education": [
+        "Harcourt Butler Technical University, Kanpur September 2023 – Present Bachelor of Technology in Information Technology (CGPA : 7.01)",
+        "Oxford Model Senior Secondary School, Kanpur CBSE Senior Secondary (Class XII) – 81%",
+        "Oxford Model Senior Secondary School, Kanpur CBSE Secondary (Class X) – 71%"
+      ],
+      "technologiesUsed": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "SQL",
+        "FastAPI",
+        "React.js",
+        "HTML",
+        "CSS",
+        "MongoDB",
+        "MySQL",
+        "React",
+        "TypeScript",
+        "PostgreSQL",
+        "SQLAlchemy",
+        "Qdrant Cloud",
+        "Groq API",
+        "Gemini API",
+        "Razorpay",
+        "Qdrant",
+        "Gemini Embeddings API",
+        "Pydantic",
+        "PyPDF"
+      ],
+      "achievements": [
+        "LeetCode Knight – Solved 1,300+ DSA problems across competitive programming platforms; peak LeetCode rating: 2053.",
+        "CodeChef 3-Star – Peak rating: 1650; participated in multiple competitive programming contests.",
+        "Smart India Hackathon 2025 – Selected among the top teams at the HBTU internal hackathon.",
+        "GATE 2026 (CS & IT) – Score: 363; AIR: 25,584."
+      ]
+    },
+    "analysisPromptVersion": "doc-analysis-v1",
+    "chunkIds": [
+      "resume_6dda85b8_c1",
+      "resume_6dda85b8_c2",
+      "resume_6dda85b8_c3",
+      "resume_6dda85b8_c4",
+      "resume_6dda85b8_c5",
+      "resume_6dda85b8_c6",
+      "resume_6dda85b8_c7",
+      "resume_6dda85b8_c8"
+    ],
+    "schemaVersion": 2,
+    "createdAt": "2026-11-23T20:18:08.677Z"
+  },
+  {
+    "id": "jd_0cbba780-476c-471b-a154-88060ead60a4",
+    "userId": "usr_4127c045-3112-4c5b-a584-d5137826305c",
+    "docType": "jd",
+    "sourceType": "text",
+    "charCount": 2612,
+    "rawText": "• Develops software consistent with Cisco ‘Design Thinking Principles’ with a focus on simplification and UX (User Experience) at its core, using secure coding practices, ensuring user privacy, and following software development best practices.\n\n• Partners with other teams including design and product management to create the right solution for the customers.\n\n• Creates technical design documentation to be used by the team as well as contributing to user documentation to be used by end users.\n\n• Debugs and addresses software issues during development and in production systems to support customers. Brings new ideas for product innovation and helps improve software development processes. What You’ll Do:\n\n• Communicates status and issues to the team\n\n• Shares experience and knowledge to support the team\n\n• Performs routine assignments that require basic knowledge and exposure to fundamental theories, principles, and concepts.\n\n• Collaborates effectively with own team.\n\n• Contributes to small projects and works with others on small features primarily focused on coding and testing.\n\n• Develops an understanding of the software development lifecycle and the various agile engineering practices (e.g., requirements analysis, design, coding, unit testing, acceptance testing), and assists on projects where these methods are applied.\n\n• Analyzes user requirements and works with others to understand impact on technical design features.\n\n• Writes correct code with assistance.\n\n• Supports test code refining and rewriting as part of testing and debugging.\n\n• Assists with tests for scaling for reliability and velocity.\n\n• Applies secure coding principles and follows secure coding guidelines.\n\n• Supports more senior team members in troubleshooting and debugging issues.\n\n• Proficient in at least one large area of the codebase (multiple services in a pillar) with a high-level understanding of other components. Minimum Qualifications:\n\n• Bachelors + 0 years of previous experience\n\n• Requires basic knowledge of theories, principles and concepts within a technical discipline; has exposure to current technologies through coursework or internship.\n\n• Deep interest in building technical expertise in Front-end technologies and intuitive user experiences for our customers.\n\nPreferred Qualifications Varies based on the team and business needs | Preferred Qualifications are desired education, experience, and skills that are in addition to Minimum Qualifications.\n\n• Worked with Front-end technologies like React, JavaScript\n\n• Have used Figma to review mockups and build exactly as the Figma mockup.",
+    "normalizedText": "• Develops software consistent with Cisco ‘Design Thinking Principles’ with a focus on simplification and UX (User Experience) at its core, using secure coding practices, ensuring user privacy, and following software development best practices.\n\n• Partners with other teams including design and product management to create the right solution for the customers.\n\n• Creates technical design documentation to be used by the team as well as contributing to user documentation to be used by end users.\n\n• Debugs and addresses software issues during development and in production systems to support customers. Brings new ideas for product innovation and helps improve software development processes. What You’ll Do:\n\n• Communicates status and issues to the team\n\n• Shares experience and knowledge to support the team\n\n• Performs routine assignments that require basic knowledge and exposure to fundamental theories, principles, and concepts.\n\n• Collaborates effectively with own team.\n\n• Contributes to small projects and works with others on small features primarily focused on coding and testing.\n\n• Develops an understanding of the software development lifecycle and the various agile engineering practices (e.g., requirements analysis, design, coding, unit testing, acceptance testing), and assists on projects where these methods are applied.\n\n• Analyzes user requirements and works with others to understand impact on technical design features.\n\n• Writes correct code with assistance.\n\n• Supports test code refining and rewriting as part of testing and debugging.\n\n• Assists with tests for scaling for reliability and velocity.\n\n• Applies secure coding principles and follows secure coding guidelines.\n\n• Supports more senior team members in troubleshooting and debugging issues.\n\n• Proficient in at least one large area of the codebase (multiple services in a pillar) with a high-level understanding of other components. Minimum Qualifications:\n\n• Bachelors + 0 years of previous experience\n\n• Requires basic knowledge of theories, principles and concepts within a technical discipline; has exposure to current technologies through coursework or internship.\n\n• Deep interest in building technical expertise in Front-end technologies and intuitive user experiences for our customers.\n\nPreferred Qualifications Varies based on the team and business needs | Preferred Qualifications are desired education, experience, and skills that are in addition to Minimum Qualifications.\n\n• Worked with Front-end technologies like React, JavaScript\n\n• Have used Figma to review mockups and build exactly as the Figma mockup.",
+    "analysis": {
+      "jobTitle": "Unknown",
+      "companyName": "Cisco",
+      "requiredTechnicalSkills": [
+        "Front-end technologies",
+        "Secure coding practices",
+        "Software development best practices",
+        "Debugging",
+        "Troubleshooting"
+      ],
+      "preferredSkills": [
+        "Worked with Front-end technologies like React, JavaScript",
+        "Have used Figma to review mockups and build exactly as the Figma mockup"
+      ],
+      "responsibilities": [
+        "Develops software consistent with Cisco ‘Design Thinking Principles’ with a focus on simplification and UX (User Experience) at its core, using secure coding practices, ensuring user privacy, and following software development best practices.",
+        "Partners with other teams including design and product management to create the right solution for the customers.",
+        "Creates technical design documentation to be used by the team as well as contributing to user documentation to be used by end users.",
+        "Debugs and addresses software issues during development and in production systems to support customers.",
+        "Brings new ideas for product innovation and helps improve software development processes.",
+        "Communicates status and issues to the team",
+        "Shares experience and knowledge to support the team",
+        "Performs routine assignments that require basic knowledge and exposure to fundamental theories, principles, and concepts.",
+        "Collaborates effectively with own team.",
+        "Contributes to small projects and works with others on small features primarily focused on coding and testing.",
+        "Develops an understanding of the software development lifecycle and the various agile engineering practices (e.g., requirements analysis, design, coding, unit testing, acceptance testing), and assists on projects where these methods are applied.",
+        "Analyzes user requirements and works with others to understand impact on technical design features.",
+        "Writes correct code with assistance.",
+        "Supports test code refining and rewriting as part of testing and debugging.",
+        "Assists with tests for scaling for reliability and velocity.",
+        "Applies secure coding principles and follows secure coding guidelines.",
+        "Supports more senior team members in troubleshooting and debugging issues.",
+        "Proficient in at least one large area of the codebase (multiple services in a pillar) with a high-level understanding of other components."
+      ],
+      "requiredExperience": "Bachelors + 0 years of previous experience",
+      "toolsAndTechnologies": [
+        "React",
+        "JavaScript",
+        "Figma"
+      ],
+      "importantQualifications": [
+        "Bachelors + 0 years of previous experience",
+        "Requires basic knowledge of theories, principles and concepts within a technical discipline; has exposure to current technologies through coursework or internship.",
+        "Deep interest in building technical expertise in Front-end technologies and intuitive user experiences for our customers."
+      ]
+    },
+    "analysisPromptVersion": "doc-analysis-v1",
+    "webResearchSummary": "I’m sorry, but I don’t have verified information about the engineering stack, product domain, or role expectations for an “Unknown” position at Cisco. If you can provide a specific job title or additional details, I’ll be happy to help summarize the relevant information.",
+    "webSources": [],
+    "webResearchStatus": "completed",
+    "chunkIds": [
+      "jd_0ead60a4_c1",
+      "jd_0ead60a4_c2",
+      "jd_0ead60a4_c3",
+      "jd_0ead60a4_c4",
+      "jd_0ead60a4_c5",
+      "jd_0ead60a4_c6"
+    ],
+    "schemaVersion": 2,
+    "createdAt": "2026-11-23T20:17:57.152Z"
+  },
+  {
+    "id": "res_feb0bc61-947d-4ce4-8f19-5b9ca1424871",
+    "userId": "usr_171d82fd-f2c0-4e5f-ab5e-0869494f26d8",
+    "docType": "resume",
+    "sourceType": "pdf",
+    "fileName": "SDE_Resume_Divya_Ratna_Gautam (10).pdf",
+    "fileSizeBytes": 108829,
+    "pageCount": 1,
+    "charCount": 3581,
+    "rawText": "Divya Ratna Gautam\n+91 9956189165 — vayugautam249@gmail.com — LinkedIn — LeetCode — GitHub\nSummary\nSoftware Engineering student with hands-on experience building full-stack applications, REST APIs, and\nLLM-powered systems. Strong foundation in Data Structures & Algorithms,Object-Oriented Programming, DBMS,\nOperating Systems, and Computer Networks. Experienced with Python, Java, React, FastAPI, and SQL, with\nadditional experience building RAG and LLM-based applications.\nEducation\nHarcourt Butler Technical University, Kanpur September 2023 – Present\nBachelor of Technology in Information Technology (CGPA : 7.01)\nOxford Model Senior Secondary School, Kanpur CBSE\nSenior Secondary (Class XII) – 81%\nOxford Model Senior Secondary School, Kanpur CBSE\nSecondary (Class X) – 71%\nSkills\nLanguages: Python, Java, JavaScript, SQL\nSoftware Engineering: Data Structures & Algorithms, OOP, REST APIs, Debugging, Git/GitHub\nBackend: FastAPI, Java\nFrontend: React.js, HTML, CSS\nGenerative AI: LLMs, RAG, Prompt Engineering, Embeddings, Vector Search\nDatabases: MongoDB, MySQL\nFundamentals: DBMS, Operating Systems, Computer Networks\nProjects\nPayFlow Copilot – AI-Powered Payment Operations Assistant GitHub — Live\nPython, FastAPI, React, TypeScript, PostgreSQL, SQLAlchemy, Qdrant Cloud, Groq API, Gemini API, Razorpay\n• Built a full-stack payment operations platform using FastAPI, React, and PostgreSQL 16, implementing JWT\nauthentication and user-scoped transaction, conversation, dispute, and audit-log management through REST APIs.\n• Integrated Groq Chat Completions API with openai/gpt-oss-120b for tool-calling conversations and Google’s Gemini\nEmbedding API with gemini-embedding-001 (768 dimensions) for semantic policy retrieval using Qdrant Cloud.\n• Implemented policy-document ingestion and retrieval with user/document metadata filtering, returning source-backed\ncitations; developed deterministic payment-failure analysis to identify failure reasons and retry eligibility.\n• Integrated Razorpay Standard Checkout (Test Mode) with order creation, HMAC-SHA256 payment-signature verification,\nwebhook verification, and failure reconciliation; implemented reviewable dispute drafts with evidence classification and audit\nlogging.\nLearnMate AI – Full-Stack RAG Learning Platform GitHub — Live\nPython, FastAPI, Qdrant, Gemini Embeddings API, Groq API, Pydantic\n• Engineered a Python-based Retrieval-Augmented Generation (RAG) pipeline using PyPDF for document ingestion,\nrecursive text splitting with 1,000-character chunks and 200-character overlap, and metadata-aware document processing.\n• Built a semantic retrieval system using Gemini embeddings and Qdrant Vector Database, retrieving the top 5 relevant\nchunks per query with metadata filtering and configurable similarity thresholds.\n• Integrated Groq’s ‘openai/gpt-oss-120b’ LLM for context-grounded question answering, with an 8,000-token context budget,\n800-token generation limit, and conversation history management.\n• Developed FastAPI REST endpoints for document ingestion and AI-powered learning workflows, incorporating Pydantic\nvalidation, structured error handling, retry logic, and automated evaluation of retrieval relevance and answer quality.\nAchievements\n• LeetCode Knight – Solved 1,300+ DSA problems across competitive programming platforms; peak LeetCode rating:\n2053.\n• CodeChef 3-Star – Peak rating: 1650; participated in multiple competitive programming contests.\n• Smart India Hackathon 2025 – Selected among the top teams at the HBTU internal hackathon.\n• GATE 2026 (CS & IT) – Score: 363; AIR: 25,584.",
+    "normalizedText": "Divya Ratna Gautam\n+91 9956189165 — vayugautam249@gmail.com — LinkedIn — LeetCode — GitHub\nSummary\nSoftware Engineering student with hands-on experience building full-stack applications, REST APIs, and\nLLM-powered systems. Strong foundation in Data Structures & Algorithms,Object-Oriented Programming, DBMS,\nOperating Systems, and Computer Networks. Experienced with Python, Java, React, FastAPI, and SQL, with\nadditional experience building RAG and LLM-based applications.\nEducation\nHarcourt Butler Technical University, Kanpur September 2023 – Present\nBachelor of Technology in Information Technology (CGPA : 7.01)\nOxford Model Senior Secondary School, Kanpur CBSE\nSenior Secondary (Class XII) – 81%\nOxford Model Senior Secondary School, Kanpur CBSE\nSecondary (Class X) – 71%\nSkills\nLanguages: Python, Java, JavaScript, SQL\nSoftware Engineering: Data Structures & Algorithms, OOP, REST APIs, Debugging, Git/GitHub\nBackend: FastAPI, Java\nFrontend: React.js, HTML, CSS\nGenerative AI: LLMs, RAG, Prompt Engineering, Embeddings, Vector Search\nDatabases: MongoDB, MySQL\nFundamentals: DBMS, Operating Systems, Computer Networks\nProjects\nPayFlow Copilot – AI-Powered Payment Operations Assistant GitHub — Live\nPython, FastAPI, React, TypeScript, PostgreSQL, SQLAlchemy, Qdrant Cloud, Groq API, Gemini API, Razorpay\n• Built a full-stack payment operations platform using FastAPI, React, and PostgreSQL 16, implementing JWT\nauthentication and user-scoped transaction, conversation, dispute, and audit-log management through REST APIs.\n• Integrated Groq Chat Completions API with openai/gpt-oss-120b for tool-calling conversations and Google’s Gemini\nEmbedding API with gemini-embedding-001 (768 dimensions) for semantic policy retrieval using Qdrant Cloud.\n• Implemented policy-document ingestion and retrieval with user/document metadata filtering, returning source-backed\ncitations; developed deterministic payment-failure analysis to identify failure reasons and retry eligibility.\n• Integrated Razorpay Standard Checkout (Test Mode) with order creation, HMAC-SHA256 payment-signature verification,\nwebhook verification, and failure reconciliation; implemented reviewable dispute drafts with evidence classification and audit\nlogging.\nLearnMate AI – Full-Stack RAG Learning Platform GitHub — Live\nPython, FastAPI, Qdrant, Gemini Embeddings API, Groq API, Pydantic\n• Engineered a Python-based Retrieval-Augmented Generation (RAG) pipeline using PyPDF for document ingestion,\nrecursive text splitting with 1,000-character chunks and 200-character overlap, and metadata-aware document processing.\n• Built a semantic retrieval system using Gemini embeddings and Qdrant Vector Database, retrieving the top 5 relevant\nchunks per query with metadata filtering and configurable similarity thresholds.\n• Integrated Groq’s ‘openai/gpt-oss-120b’ LLM for context-grounded question answering, with an 8,000-token context budget,\n800-token generation limit, and conversation history management.\n• Developed FastAPI REST endpoints for document ingestion and AI-powered learning workflows, incorporating Pydantic\nvalidation, structured error handling, retry logic, and automated evaluation of retrieval relevance and answer quality.\nAchievements\n• LeetCode Knight – Solved 1,300+ DSA problems across competitive programming platforms; peak LeetCode rating:\n2053.\n• CodeChef 3-Star – Peak rating: 1650; participated in multiple competitive programming contests.\n• Smart India Hackathon 2025 – Selected among the top teams at the HBTU internal hackathon.\n• GATE 2026 (CS & IT) – Score: 363; AIR: 25,584.",
+    "analysis": {
+      "candidateSkills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "SQL",
+        "Data Structures & Algorithms",
+        "OOP",
+        "REST APIs",
+        "Debugging",
+        "Git/GitHub",
+        "FastAPI",
+        "React.js",
+        "HTML",
+        "CSS",
+        "LLMs",
+        "RAG",
+        "Prompt Engineering",
+        "Embeddings",
+        "Vector Search",
+        "MongoDB",
+        "MySQL",
+        "DBMS",
+        "Operating Systems",
+        "Computer Networks"
+      ],
+      "workExperience": [],
+      "projects": [
+        {
+          "name": "PayFlow Copilot – AI-Powered Payment Operations Assistant",
+          "description": "Built a full-stack payment operations platform using FastAPI, React, and PostgreSQL 16, implementing JWT authentication and user-scoped transaction, conversation, dispute, and audit-log management through REST APIs. Integrated Groq Chat Completions API with openai/gpt-oss-120b for tool-calling conversations and Google’s Gemini Embedding API with gemini-embedding-001 (768 dimensions) for semantic policy retrieval using Qdrant Cloud. Implemented policy-document ingestion and retrieval with user/document metadata filtering, returning source-backed citations; developed deterministic payment-failure analysis to identify failure reasons and retry eligibility. Integrated Razorpay Standard Checkout (Test Mode) with order creation, HMAC-SHA256 payment-signature verification, webhook verification, and failure reconciliation; implemented reviewable dispute drafts with evidence classification and audit logging.",
+          "technologies": [
+            "Python",
+            "FastAPI",
+            "React",
+            "TypeScript",
+            "PostgreSQL",
+            "SQLAlchemy",
+            "Qdrant Cloud",
+            "Groq API",
+            "Gemini API",
+            "Razorpay"
+          ]
+        },
+        {
+          "name": "LearnMate AI – Full-Stack RAG Learning Platform",
+          "description": "Engineered a Python-based Retrieval-Augmented Generation (RAG) pipeline using PyPDF for document ingestion, recursive text splitting with 1,000-character chunks and 200-character overlap, and metadata-aware document processing. Built a semantic retrieval system using Gemini embeddings and Qdrant Vector Database, retrieving the top 5 relevant chunks per query with metadata filtering and configurable similarity thresholds. Integrated Groq’s ‘openai/gpt-oss-120b’ LLM for context-grounded question answering, with an 8,000-token context budget, 800-token generation limit, and conversation history management. Developed FastAPI REST endpoints for document ingestion and AI-powered learning workflows, incorporating Pydantic validation, structured error handling, retry logic, and automated evaluation of retrieval relevance and answer quality.",
+          "technologies": [
+            "Python",
+            "FastAPI",
+            "Qdrant",
+            "Gemini Embeddings API",
+            "Groq API",
+            "Pydantic"
+          ]
+        }
+      ],
+      "education": [
+        "Bachelor of Technology in Information Technology (CGPA : 7.01), Harcourt Butler Technical University, Kanpur (September 2023 – Present)",
+        "Senior Secondary (Class XII) – 81%, Oxford Model Senior Secondary School, Kanpur CBSE",
+        "Secondary (Class X) – 71%, Oxford Model Senior Secondary School, Kanpur CBSE"
+      ],
+      "technologiesUsed": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "SQL",
+        "FastAPI",
+        "React.js",
+        "React",
+        "TypeScript",
+        "PostgreSQL",
+        "SQLAlchemy",
+        "Qdrant Cloud",
+        "Groq API",
+        "Gemini API",
+        "Razorpay",
+        "Qdrant",
+        "Gemini Embeddings API",
+        "Pydantic",
+        "PyPDF",
+        "MongoDB",
+        "MySQL",
+        "HTML",
+        "CSS",
+        "Git",
+        "GitHub"
+      ],
+      "achievements": [
+        "LeetCode Knight – Solved 1,300+ DSA problems across competitive programming platforms; peak LeetCode rating: 2053.",
+        "CodeChef 3-Star – Peak rating: 1650; participated in multiple competitive programming contests.",
+        "Smart India Hackathon 2025 – Selected among the top teams at the HBTU internal hackathon.",
+        "GATE 2026 (CS & IT) – Score: 363; AIR: 25,584."
+      ]
+    },
+    "analysisPromptVersion": "doc-analysis-v1",
+    "chunkIds": [
+      "resume_a1424871_c1",
+      "resume_a1424871_c2",
+      "resume_a1424871_c3",
+      "resume_a1424871_c4",
+      "resume_a1424871_c5",
+      "resume_a1424871_c6",
+      "resume_a1424871_c7",
+      "resume_a1424871_c8"
+    ],
+    "schemaVersion": 2,
+    "createdAt": "2026-11-23T20:16:26.256Z"
+  },
+  {
+    "id": "jd_59fa0de5-d075-45bc-82cc-e54e8311ed6f",
+    "userId": "usr_171d82fd-f2c0-4e5f-ab5e-0869494f26d8",
+    "docType": "jd",
+    "sourceType": "text",
+    "charCount": 2612,
+    "rawText": "• Develops software consistent with Cisco ‘Design Thinking Principles’ with a focus on simplification and UX (User Experience) at its core, using secure coding practices, ensuring user privacy, and following software development best practices.\n\n• Partners with other teams including design and product management to create the right solution for the customers.\n\n• Creates technical design documentation to be used by the team as well as contributing to user documentation to be used by end users.\n\n• Debugs and addresses software issues during development and in production systems to support customers. Brings new ideas for product innovation and helps improve software development processes. What You’ll Do:\n\n• Communicates status and issues to the team\n\n• Shares experience and knowledge to support the team\n\n• Performs routine assignments that require basic knowledge and exposure to fundamental theories, principles, and concepts.\n\n• Collaborates effectively with own team.\n\n• Contributes to small projects and works with others on small features primarily focused on coding and testing.\n\n• Develops an understanding of the software development lifecycle and the various agile engineering practices (e.g., requirements analysis, design, coding, unit testing, acceptance testing), and assists on projects where these methods are applied.\n\n• Analyzes user requirements and works with others to understand impact on technical design features.\n\n• Writes correct code with assistance.\n\n• Supports test code refining and rewriting as part of testing and debugging.\n\n• Assists with tests for scaling for reliability and velocity.\n\n• Applies secure coding principles and follows secure coding guidelines.\n\n• Supports more senior team members in troubleshooting and debugging issues.\n\n• Proficient in at least one large area of the codebase (multiple services in a pillar) with a high-level understanding of other components. Minimum Qualifications:\n\n• Bachelors + 0 years of previous experience\n\n• Requires basic knowledge of theories, principles and concepts within a technical discipline; has exposure to current technologies through coursework or internship.\n\n• Deep interest in building technical expertise in Front-end technologies and intuitive user experiences for our customers.\n\nPreferred Qualifications Varies based on the team and business needs | Preferred Qualifications are desired education, experience, and skills that are in addition to Minimum Qualifications.\n\n• Worked with Front-end technologies like React, JavaScript\n\n• Have used Figma to review mockups and build exactly as the Figma mockup.",
+    "normalizedText": "• Develops software consistent with Cisco ‘Design Thinking Principles’ with a focus on simplification and UX (User Experience) at its core, using secure coding practices, ensuring user privacy, and following software development best practices.\n\n• Partners with other teams including design and product management to create the right solution for the customers.\n\n• Creates technical design documentation to be used by the team as well as contributing to user documentation to be used by end users.\n\n• Debugs and addresses software issues during development and in production systems to support customers. Brings new ideas for product innovation and helps improve software development processes. What You’ll Do:\n\n• Communicates status and issues to the team\n\n• Shares experience and knowledge to support the team\n\n• Performs routine assignments that require basic knowledge and exposure to fundamental theories, principles, and concepts.\n\n• Collaborates effectively with own team.\n\n• Contributes to small projects and works with others on small features primarily focused on coding and testing.\n\n• Develops an understanding of the software development lifecycle and the various agile engineering practices (e.g., requirements analysis, design, coding, unit testing, acceptance testing), and assists on projects where these methods are applied.\n\n• Analyzes user requirements and works with others to understand impact on technical design features.\n\n• Writes correct code with assistance.\n\n• Supports test code refining and rewriting as part of testing and debugging.\n\n• Assists with tests for scaling for reliability and velocity.\n\n• Applies secure coding principles and follows secure coding guidelines.\n\n• Supports more senior team members in troubleshooting and debugging issues.\n\n• Proficient in at least one large area of the codebase (multiple services in a pillar) with a high-level understanding of other components. Minimum Qualifications:\n\n• Bachelors + 0 years of previous experience\n\n• Requires basic knowledge of theories, principles and concepts within a technical discipline; has exposure to current technologies through coursework or internship.\n\n• Deep interest in building technical expertise in Front-end technologies and intuitive user experiences for our customers.\n\nPreferred Qualifications Varies based on the team and business needs | Preferred Qualifications are desired education, experience, and skills that are in addition to Minimum Qualifications.\n\n• Worked with Front-end technologies like React, JavaScript\n\n• Have used Figma to review mockups and build exactly as the Figma mockup.",
+    "analysis": {
+      "jobTitle": "Unknown",
+      "companyName": "Unknown",
+      "requiredTechnicalSkills": [],
+      "preferredSkills": [],
+      "responsibilities": [
+        "Develops software consistent with Cisco ‘Design Thinking Principles’ with a focus on simplification and UX (User Experience) at its core, using secure coding practices, ensuring user privacy, and following software development best practices.",
+        "Partners with other teams including design and product management to create the right solution for the customers.",
+        "Creates technical design documentation to be used by the team as well as contributing to user documentation to be used by end users.",
+        "Debugs and addresses software issues during development and in production systems to support customers. Brings new ideas for product innovation and helps improve software development processes.",
+        "Communicates status and issues to the team",
+        "Shares experience and knowledge to support the team",
+        "Performs routine assignments that require basic knowledge and exposure to fundamental theories, principles, and concepts.",
+        "Collaborates effectively with own team.",
+        "Contributes to small projects and works with others on small features primarily focused on coding and testing.",
+        "Develops an understanding of the software development lifecycle and the various agile engineering practices (e.g., requirements analysis, design, coding, unit testing, acceptance testing), and assists on projects where these methods are applied.",
+        "Analyzes user requirements and works with others to understand impact on technical design features.",
+        "Writes correct code with assistance.",
+        "Supports test code refining and rewriting as part of testing and debugging.",
+        "Assists with tests for scaling for reliability and velocity.",
+        "Applies secure coding principles and follows secure coding guidelines.",
+        "Supports more senior team members in troubleshooting and debugging issues.",
+        "Proficient in at least one large area of the codebase (multiple services in a pillar) with a high-level understanding of other components."
+      ],
+      "requiredExperience": "Bachelors + 0 years of previous experience",
+      "toolsAndTechnologies": [],
+      "importantQualifications": []
+    },
+    "analysisPromptVersion": "doc-analysis-v1",
+    "webResearchSummary": "",
+    "webSources": [],
+    "webResearchStatus": "skipped",
+    "chunkIds": [
+      "jd_8311ed6f_c1",
+      "jd_8311ed6f_c2",
+      "jd_8311ed6f_c3",
+      "jd_8311ed6f_c4",
+      "jd_8311ed6f_c5",
+      "jd_8311ed6f_c6"
+    ],
+    "schemaVersion": 2,
+    "createdAt": "2026-11-23T19:01:48.044Z"
+  },
+  {
+    "id": "res_7b635ad9-ba44-4d82-a7e6-67c89a12f025",
+    "userId": "usr_171d82fd-f2c0-4e5f-ab5e-0869494f26d8",
+    "docType": "resume",
+    "sourceType": "pdf",
+    "fileName": "SDE_Resume_Divya_Ratna_Gautam (10).pdf",
+    "fileSizeBytes": 108829,
+    "pageCount": 1,
+    "charCount": 3581,
+    "rawText": "Divya Ratna Gautam\n+91 9956189165 — vayugautam249@gmail.com — LinkedIn — LeetCode — GitHub\nSummary\nSoftware Engineering student with hands-on experience building full-stack applications, REST APIs, and\nLLM-powered systems. Strong foundation in Data Structures & Algorithms,Object-Oriented Programming, DBMS,\nOperating Systems, and Computer Networks. Experienced with Python, Java, React, FastAPI, and SQL, with\nadditional experience building RAG and LLM-based applications.\nEducation\nHarcourt Butler Technical University, Kanpur September 2023 – Present\nBachelor of Technology in Information Technology (CGPA : 7.01)\nOxford Model Senior Secondary School, Kanpur CBSE\nSenior Secondary (Class XII) – 81%\nOxford Model Senior Secondary School, Kanpur CBSE\nSecondary (Class X) – 71%\nSkills\nLanguages: Python, Java, JavaScript, SQL\nSoftware Engineering: Data Structures & Algorithms, OOP, REST APIs, Debugging, Git/GitHub\nBackend: FastAPI, Java\nFrontend: React.js, HTML, CSS\nGenerative AI: LLMs, RAG, Prompt Engineering, Embeddings, Vector Search\nDatabases: MongoDB, MySQL\nFundamentals: DBMS, Operating Systems, Computer Networks\nProjects\nPayFlow Copilot – AI-Powered Payment Operations Assistant GitHub — Live\nPython, FastAPI, React, TypeScript, PostgreSQL, SQLAlchemy, Qdrant Cloud, Groq API, Gemini API, Razorpay\n• Built a full-stack payment operations platform using FastAPI, React, and PostgreSQL 16, implementing JWT\nauthentication and user-scoped transaction, conversation, dispute, and audit-log management through REST APIs.\n• Integrated Groq Chat Completions API with openai/gpt-oss-120b for tool-calling conversations and Google’s Gemini\nEmbedding API with gemini-embedding-001 (768 dimensions) for semantic policy retrieval using Qdrant Cloud.\n• Implemented policy-document ingestion and retrieval with user/document metadata filtering, returning source-backed\ncitations; developed deterministic payment-failure analysis to identify failure reasons and retry eligibility.\n• Integrated Razorpay Standard Checkout (Test Mode) with order creation, HMAC-SHA256 payment-signature verification,\nwebhook verification, and failure reconciliation; implemented reviewable dispute drafts with evidence classification and audit\nlogging.\nLearnMate AI – Full-Stack RAG Learning Platform GitHub — Live\nPython, FastAPI, Qdrant, Gemini Embeddings API, Groq API, Pydantic\n• Engineered a Python-based Retrieval-Augmented Generation (RAG) pipeline using PyPDF for document ingestion,\nrecursive text splitting with 1,000-character chunks and 200-character overlap, and metadata-aware document processing.\n• Built a semantic retrieval system using Gemini embeddings and Qdrant Vector Database, retrieving the top 5 relevant\nchunks per query with metadata filtering and configurable similarity thresholds.\n• Integrated Groq’s ‘openai/gpt-oss-120b’ LLM for context-grounded question answering, with an 8,000-token context budget,\n800-token generation limit, and conversation history management.\n• Developed FastAPI REST endpoints for document ingestion and AI-powered learning workflows, incorporating Pydantic\nvalidation, structured error handling, retry logic, and automated evaluation of retrieval relevance and answer quality.\nAchievements\n• LeetCode Knight – Solved 1,300+ DSA problems across competitive programming platforms; peak LeetCode rating:\n2053.\n• CodeChef 3-Star – Peak rating: 1650; participated in multiple competitive programming contests.\n• Smart India Hackathon 2025 – Selected among the top teams at the HBTU internal hackathon.\n• GATE 2026 (CS & IT) – Score: 363; AIR: 25,584.",
+    "normalizedText": "Divya Ratna Gautam\n+91 9956189165 — vayugautam249@gmail.com — LinkedIn — LeetCode — GitHub\nSummary\nSoftware Engineering student with hands-on experience building full-stack applications, REST APIs, and\nLLM-powered systems. Strong foundation in Data Structures & Algorithms,Object-Oriented Programming, DBMS,\nOperating Systems, and Computer Networks. Experienced with Python, Java, React, FastAPI, and SQL, with\nadditional experience building RAG and LLM-based applications.\nEducation\nHarcourt Butler Technical University, Kanpur September 2023 – Present\nBachelor of Technology in Information Technology (CGPA : 7.01)\nOxford Model Senior Secondary School, Kanpur CBSE\nSenior Secondary (Class XII) – 81%\nOxford Model Senior Secondary School, Kanpur CBSE\nSecondary (Class X) – 71%\nSkills\nLanguages: Python, Java, JavaScript, SQL\nSoftware Engineering: Data Structures & Algorithms, OOP, REST APIs, Debugging, Git/GitHub\nBackend: FastAPI, Java\nFrontend: React.js, HTML, CSS\nGenerative AI: LLMs, RAG, Prompt Engineering, Embeddings, Vector Search\nDatabases: MongoDB, MySQL\nFundamentals: DBMS, Operating Systems, Computer Networks\nProjects\nPayFlow Copilot – AI-Powered Payment Operations Assistant GitHub — Live\nPython, FastAPI, React, TypeScript, PostgreSQL, SQLAlchemy, Qdrant Cloud, Groq API, Gemini API, Razorpay\n• Built a full-stack payment operations platform using FastAPI, React, and PostgreSQL 16, implementing JWT\nauthentication and user-scoped transaction, conversation, dispute, and audit-log management through REST APIs.\n• Integrated Groq Chat Completions API with openai/gpt-oss-120b for tool-calling conversations and Google’s Gemini\nEmbedding API with gemini-embedding-001 (768 dimensions) for semantic policy retrieval using Qdrant Cloud.\n• Implemented policy-document ingestion and retrieval with user/document metadata filtering, returning source-backed\ncitations; developed deterministic payment-failure analysis to identify failure reasons and retry eligibility.\n• Integrated Razorpay Standard Checkout (Test Mode) with order creation, HMAC-SHA256 payment-signature verification,\nwebhook verification, and failure reconciliation; implemented reviewable dispute drafts with evidence classification and audit\nlogging.\nLearnMate AI – Full-Stack RAG Learning Platform GitHub — Live\nPython, FastAPI, Qdrant, Gemini Embeddings API, Groq API, Pydantic\n• Engineered a Python-based Retrieval-Augmented Generation (RAG) pipeline using PyPDF for document ingestion,\nrecursive text splitting with 1,000-character chunks and 200-character overlap, and metadata-aware document processing.\n• Built a semantic retrieval system using Gemini embeddings and Qdrant Vector Database, retrieving the top 5 relevant\nchunks per query with metadata filtering and configurable similarity thresholds.\n• Integrated Groq’s ‘openai/gpt-oss-120b’ LLM for context-grounded question answering, with an 8,000-token context budget,\n800-token generation limit, and conversation history management.\n• Developed FastAPI REST endpoints for document ingestion and AI-powered learning workflows, incorporating Pydantic\nvalidation, structured error handling, retry logic, and automated evaluation of retrieval relevance and answer quality.\nAchievements\n• LeetCode Knight – Solved 1,300+ DSA problems across competitive programming platforms; peak LeetCode rating:\n2053.\n• CodeChef 3-Star – Peak rating: 1650; participated in multiple competitive programming contests.\n• Smart India Hackathon 2025 – Selected among the top teams at the HBTU internal hackathon.\n• GATE 2026 (CS & IT) – Score: 363; AIR: 25,584.",
+    "analysis": {
+      "candidateSkills": [],
+      "workExperience": [],
+      "projects": [
+        {
+          "name": "PayFlow Copilot – AI-Powered Payment Operations Assistant",
+          "description": "",
+          "technologies": [
+            "Python",
+            "FastAPI",
+            "React",
+            "TypeScript",
+            "PostgreSQL",
+            "SQLAlchemy",
+            "Qdrant Cloud",
+            "Groq API",
+            "Gemini API",
+            "Razorpay"
+          ]
+        },
+        {
+          "name": "LearnMate AI – Full-Stack RAG Learning Platform",
+          "description": "",
+          "technologies": [
+            "Python",
+            "FastAPI",
+            "Qdrant",
+            "Gemini Embeddings API",
+            "Groq API",
+            "Pydantic"
+          ]
+        }
+      ],
+      "education": [],
+      "technologiesUsed": [],
+      "achievements": [
+        "LeetCode Knight – Solved 1,300+ DSA problems across competitive programming platforms; peak LeetCode rating: 2053.",
+        "CodeChef 3-Star – Peak rating: 1650; participated in multiple competitive programming contests.",
+        "Smart India Hackathon 2025 – Selected among the top teams at the HBTU internal hackathon.",
+        "GATE 2026 (CS & IT) – Score: 363; AIR: 25,584."
+      ]
+    },
+    "analysisPromptVersion": "doc-analysis-v1",
+    "chunkIds": [
+      "resume_9a12f025_c1",
+      "resume_9a12f025_c2",
+      "resume_9a12f025_c3",
+      "resume_9a12f025_c4",
+      "resume_9a12f025_c5",
+      "resume_9a12f025_c6",
+      "resume_9a12f025_c7",
+      "resume_9a12f025_c8"
+    ],
+    "schemaVersion": 2,
+    "createdAt": "2026-11-23T18:59:18.553Z"
+  },
+  {
+    "id": "res_d48147c1-b8c6-416a-a8be-c8b9fe8d3787",
+    "userId": "usr_b9f83492-2937-40be-9bca-c5af566179d2",
+    "docType": "resume",
+    "sourceType": "pdf",
+    "fileName": "SDE_Resume_Divya_Ratna_Gautam (10).pdf",
+    "fileSizeBytes": 108829,
+    "pageCount": 1,
+    "charCount": 3581,
+    "rawText": "Divya Ratna Gautam\n+91 9956189165 — vayugautam249@gmail.com — LinkedIn — LeetCode — GitHub\nSummary\nSoftware Engineering student with hands-on experience building full-stack applications, REST APIs, and\nLLM-powered systems. Strong foundation in Data Structures & Algorithms,Object-Oriented Programming, DBMS,\nOperating Systems, and Computer Networks. Experienced with Python, Java, React, FastAPI, and SQL, with\nadditional experience building RAG and LLM-based applications.\nEducation\nHarcourt Butler Technical University, Kanpur September 2023 – Present\nBachelor of Technology in Information Technology (CGPA : 7.01)\nOxford Model Senior Secondary School, Kanpur CBSE\nSenior Secondary (Class XII) – 81%\nOxford Model Senior Secondary School, Kanpur CBSE\nSecondary (Class X) – 71%\nSkills\nLanguages: Python, Java, JavaScript, SQL\nSoftware Engineering: Data Structures & Algorithms, OOP, REST APIs, Debugging, Git/GitHub\nBackend: FastAPI, Java\nFrontend: React.js, HTML, CSS\nGenerative AI: LLMs, RAG, Prompt Engineering, Embeddings, Vector Search\nDatabases: MongoDB, MySQL\nFundamentals: DBMS, Operating Systems, Computer Networks\nProjects\nPayFlow Copilot – AI-Powered Payment Operations Assistant GitHub — Live\nPython, FastAPI, React, TypeScript, PostgreSQL, SQLAlchemy, Qdrant Cloud, Groq API, Gemini API, Razorpay\n• Built a full-stack payment operations platform using FastAPI, React, and PostgreSQL 16, implementing JWT\nauthentication and user-scoped transaction, conversation, dispute, and audit-log management through REST APIs.\n• Integrated Groq Chat Completions API with openai/gpt-oss-120b for tool-calling conversations and Google’s Gemini\nEmbedding API with gemini-embedding-001 (768 dimensions) for semantic policy retrieval using Qdrant Cloud.\n• Implemented policy-document ingestion and retrieval with user/document metadata filtering, returning source-backed\ncitations; developed deterministic payment-failure analysis to identify failure reasons and retry eligibility.\n• Integrated Razorpay Standard Checkout (Test Mode) with order creation, HMAC-SHA256 payment-signature verification,\nwebhook verification, and failure reconciliation; implemented reviewable dispute drafts with evidence classification and audit\nlogging.\nLearnMate AI – Full-Stack RAG Learning Platform GitHub — Live\nPython, FastAPI, Qdrant, Gemini Embeddings API, Groq API, Pydantic\n• Engineered a Python-based Retrieval-Augmented Generation (RAG) pipeline using PyPDF for document ingestion,\nrecursive text splitting with 1,000-character chunks and 200-character overlap, and metadata-aware document processing.\n• Built a semantic retrieval system using Gemini embeddings and Qdrant Vector Database, retrieving the top 5 relevant\nchunks per query with metadata filtering and configurable similarity thresholds.\n• Integrated Groq’s ‘openai/gpt-oss-120b’ LLM for context-grounded question answering, with an 8,000-token context budget,\n800-token generation limit, and conversation history management.\n• Developed FastAPI REST endpoints for document ingestion and AI-powered learning workflows, incorporating Pydantic\nvalidation, structured error handling, retry logic, and automated evaluation of retrieval relevance and answer quality.\nAchievements\n• LeetCode Knight – Solved 1,300+ DSA problems across competitive programming platforms; peak LeetCode rating:\n2053.\n• CodeChef 3-Star – Peak rating: 1650; participated in multiple competitive programming contests.\n• Smart India Hackathon 2025 – Selected among the top teams at the HBTU internal hackathon.\n• GATE 2026 (CS & IT) – Score: 363; AIR: 25,584.",
+    "normalizedText": "Divya Ratna Gautam\n+91 9956189165 — vayugautam249@gmail.com — LinkedIn — LeetCode — GitHub\nSummary\nSoftware Engineering student with hands-on experience building full-stack applications, REST APIs, and\nLLM-powered systems. Strong foundation in Data Structures & Algorithms,Object-Oriented Programming, DBMS,\nOperating Systems, and Computer Networks. Experienced with Python, Java, React, FastAPI, and SQL, with\nadditional experience building RAG and LLM-based applications.\nEducation\nHarcourt Butler Technical University, Kanpur September 2023 – Present\nBachelor of Technology in Information Technology (CGPA : 7.01)\nOxford Model Senior Secondary School, Kanpur CBSE\nSenior Secondary (Class XII) – 81%\nOxford Model Senior Secondary School, Kanpur CBSE\nSecondary (Class X) – 71%\nSkills\nLanguages: Python, Java, JavaScript, SQL\nSoftware Engineering: Data Structures & Algorithms, OOP, REST APIs, Debugging, Git/GitHub\nBackend: FastAPI, Java\nFrontend: React.js, HTML, CSS\nGenerative AI: LLMs, RAG, Prompt Engineering, Embeddings, Vector Search\nDatabases: MongoDB, MySQL\nFundamentals: DBMS, Operating Systems, Computer Networks\nProjects\nPayFlow Copilot – AI-Powered Payment Operations Assistant GitHub — Live\nPython, FastAPI, React, TypeScript, PostgreSQL, SQLAlchemy, Qdrant Cloud, Groq API, Gemini API, Razorpay\n• Built a full-stack payment operations platform using FastAPI, React, and PostgreSQL 16, implementing JWT\nauthentication and user-scoped transaction, conversation, dispute, and audit-log management through REST APIs.\n• Integrated Groq Chat Completions API with openai/gpt-oss-120b for tool-calling conversations and Google’s Gemini\nEmbedding API with gemini-embedding-001 (768 dimensions) for semantic policy retrieval using Qdrant Cloud.\n• Implemented policy-document ingestion and retrieval with user/document metadata filtering, returning source-backed\ncitations; developed deterministic payment-failure analysis to identify failure reasons and retry eligibility.\n• Integrated Razorpay Standard Checkout (Test Mode) with order creation, HMAC-SHA256 payment-signature verification,\nwebhook verification, and failure reconciliation; implemented reviewable dispute drafts with evidence classification and audit\nlogging.\nLearnMate AI – Full-Stack RAG Learning Platform GitHub — Live\nPython, FastAPI, Qdrant, Gemini Embeddings API, Groq API, Pydantic\n• Engineered a Python-based Retrieval-Augmented Generation (RAG) pipeline using PyPDF for document ingestion,\nrecursive text splitting with 1,000-character chunks and 200-character overlap, and metadata-aware document processing.\n• Built a semantic retrieval system using Gemini embeddings and Qdrant Vector Database, retrieving the top 5 relevant\nchunks per query with metadata filtering and configurable similarity thresholds.\n• Integrated Groq’s ‘openai/gpt-oss-120b’ LLM for context-grounded question answering, with an 8,000-token context budget,\n800-token generation limit, and conversation history management.\n• Developed FastAPI REST endpoints for document ingestion and AI-powered learning workflows, incorporating Pydantic\nvalidation, structured error handling, retry logic, and automated evaluation of retrieval relevance and answer quality.\nAchievements\n• LeetCode Knight – Solved 1,300+ DSA problems across competitive programming platforms; peak LeetCode rating:\n2053.\n• CodeChef 3-Star – Peak rating: 1650; participated in multiple competitive programming contests.\n• Smart India Hackathon 2025 – Selected among the top teams at the HBTU internal hackathon.\n• GATE 2026 (CS & IT) – Score: 363; AIR: 25,584.",
+    "analysis": {
+      "candidateSkills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "SQL",
+        "Data Structures & Algorithms",
+        "OOP",
+        "REST APIs",
+        "Debugging",
+        "Git/GitHub",
+        "FastAPI",
+        "React.js",
+        "HTML",
+        "CSS",
+        "LLMs",
+        "RAG",
+        "Prompt Engineering",
+        "Embeddings",
+        "Vector Search",
+        "MongoDB",
+        "MySQL",
+        "DBMS",
+        "Operating Systems",
+        "Computer Networks"
+      ],
+      "workExperience": [],
+      "projects": [
+        {
+          "name": "PayFlow Copilot – AI-Powered Payment Operations Assistant",
+          "description": "",
+          "technologies": [
+            "Python",
+            "FastAPI",
+            "React",
+            "TypeScript",
+            "PostgreSQL",
+            "SQLAlchemy",
+            "Qdrant Cloud",
+            "Groq API",
+            "Gemini API",
+            "Razorpay",
+            "openai/gpt-oss-120b",
+            "gemini-embedding-001",
+            "JWT",
+            "HMAC-SHA256",
+            "REST APIs",
+            "Razorpay Standard Checkout (Test Mode)"
+          ]
+        }
+      ],
+      "education": [
+        "Harcourt Butler Technical University, Kanpur (September 2023 – Present) - Bachelor of Technology in Information Technology (CGPA : 7.01)"
+      ],
+      "technologiesUsed": [],
+      "achievements": []
+    },
+    "analysisPromptVersion": "doc-analysis-v1",
+    "chunkIds": [
+      "resume_fe8d3787_c1",
+      "resume_fe8d3787_c2",
+      "resume_fe8d3787_c3",
+      "resume_fe8d3787_c4",
+      "resume_fe8d3787_c5",
+      "resume_fe8d3787_c6",
+      "resume_fe8d3787_c7",
+      "resume_fe8d3787_c8"
+    ],
+    "schemaVersion": 2,
+    "createdAt": "2026-11-23T18:07:56.827Z"
+  },
+  {
+    "id": "jd_75512c68-4d06-4398-8281-ce0306705089",
+    "userId": "usr_b9f83492-2937-40be-9bca-c5af566179d2",
+    "docType": "jd",
+    "sourceType": "text",
+    "charCount": 2610,
+    "rawText": "Develops software consistent with Cisco ‘Design Thinking Principles’ with a focus on simplification and UX (User Experience) at its core, using secure coding practices, ensuring user privacy, and following software development best practices.\n\n• Partners with other teams including design and product management to create the right solution for the customers.\n\n• Creates technical design documentation to be used by the team as well as contributing to user documentation to be used by end users.\n\n• Debugs and addresses software issues during development and in production systems to support customers. Brings new ideas for product innovation and helps improve software development processes. What You’ll Do:\n\n• Communicates status and issues to the team\n\n• Shares experience and knowledge to support the team\n\n• Performs routine assignments that require basic knowledge and exposure to fundamental theories, principles, and concepts.\n\n• Collaborates effectively with own team.\n\n• Contributes to small projects and works with others on small features primarily focused on coding and testing.\n\n• Develops an understanding of the software development lifecycle and the various agile engineering practices (e.g., requirements analysis, design, coding, unit testing, acceptance testing), and assists on projects where these methods are applied.\n\n• Analyzes user requirements and works with others to understand impact on technical design features.\n\n• Writes correct code with assistance.\n\n• Supports test code refining and rewriting as part of testing and debugging.\n\n• Assists with tests for scaling for reliability and velocity.\n\n• Applies secure coding principles and follows secure coding guidelines.\n\n• Supports more senior team members in troubleshooting and debugging issues.\n\n• Proficient in at least one large area of the codebase (multiple services in a pillar) with a high-level understanding of other components. Minimum Qualifications:\n\n• Bachelors + 0 years of previous experience\n\n• Requires basic knowledge of theories, principles and concepts within a technical discipline; has exposure to current technologies through coursework or internship.\n\n• Deep interest in building technical expertise in Front-end technologies and intuitive user experiences for our customers.\n\nPreferred Qualifications Varies based on the team and business needs | Preferred Qualifications are desired education, experience, and skills that are in addition to Minimum Qualifications.\n\n• Worked with Front-end technologies like React, JavaScript\n\n• Have used Figma to review mockups and build exactly as the Figma mockup.",
+    "normalizedText": "Develops software consistent with Cisco ‘Design Thinking Principles’ with a focus on simplification and UX (User Experience) at its core, using secure coding practices, ensuring user privacy, and following software development best practices.\n\n• Partners with other teams including design and product management to create the right solution for the customers.\n\n• Creates technical design documentation to be used by the team as well as contributing to user documentation to be used by end users.\n\n• Debugs and addresses software issues during development and in production systems to support customers. Brings new ideas for product innovation and helps improve software development processes. What You’ll Do:\n\n• Communicates status and issues to the team\n\n• Shares experience and knowledge to support the team\n\n• Performs routine assignments that require basic knowledge and exposure to fundamental theories, principles, and concepts.\n\n• Collaborates effectively with own team.\n\n• Contributes to small projects and works with others on small features primarily focused on coding and testing.\n\n• Develops an understanding of the software development lifecycle and the various agile engineering practices (e.g., requirements analysis, design, coding, unit testing, acceptance testing), and assists on projects where these methods are applied.\n\n• Analyzes user requirements and works with others to understand impact on technical design features.\n\n• Writes correct code with assistance.\n\n• Supports test code refining and rewriting as part of testing and debugging.\n\n• Assists with tests for scaling for reliability and velocity.\n\n• Applies secure coding principles and follows secure coding guidelines.\n\n• Supports more senior team members in troubleshooting and debugging issues.\n\n• Proficient in at least one large area of the codebase (multiple services in a pillar) with a high-level understanding of other components. Minimum Qualifications:\n\n• Bachelors + 0 years of previous experience\n\n• Requires basic knowledge of theories, principles and concepts within a technical discipline; has exposure to current technologies through coursework or internship.\n\n• Deep interest in building technical expertise in Front-end technologies and intuitive user experiences for our customers.\n\nPreferred Qualifications Varies based on the team and business needs | Preferred Qualifications are desired education, experience, and skills that are in addition to Minimum Qualifications.\n\n• Worked with Front-end technologies like React, JavaScript\n\n• Have used Figma to review mockups and build exactly as the Figma mockup.",
+    "analysis": {
+      "jobTitle": "Unknown",
+      "companyName": "Cisco",
+      "requiredTechnicalSkills": [
+        "secure coding",
+        "coding",
+        "testing",
+        "unit testing",
+        "acceptance testing",
+        "requirements analysis",
+        "debugging",
+        "troubleshooting",
+        "Front-end technologies"
+      ],
+      "preferredSkills": [
+        "React",
+        "JavaScript",
+        "Figma"
+      ],
+      "responsibilities": [
+        "Develops software consistent with Cisco ‘Design Thinking Principles’ with a focus on simplification and UX (User Experience) at its core, using secure coding practices, ensuring user privacy, and following software development best practices.",
+        "Partners with other teams including design and product management to create the right solution for the customers.",
+        "Creates technical design documentation to be used by the team as well as contributing to user documentation to be used by end users.",
+        "Debugs and addresses software issues during development and in production systems to support customers. Brings new ideas for product innovation and helps improve software development processes.",
+        "Communicates status and issues to the team",
+        "Shares experience and knowledge to support the team",
+        "Performs routine assignments that require basic knowledge and exposure to fundamental theories, principles, and concepts.",
+        "Collaborates effectively with own team.",
+        "Contributes to small projects and works with others on small features primarily focused on coding and testing.",
+        "Develops an understanding of the software development lifecycle and the various agile engineering practices (e.g., requirements analysis, design, coding, unit testing, acceptance testing), and assists on projects where these methods are applied.",
+        "Analyzes user requirements and works with others to understand impact on technical design features.",
+        "Writes correct code with assistance.",
+        "Supports test code refining and rewriting as part of testing and debugging.",
+        "Assists with tests for scaling for reliability and velocity.",
+        "Applies secure coding principles and follows secure coding guidelines.",
+        "Supports more senior team members in troubleshooting and debugging issues.",
+        "Proficient in at least one large area of the codebase (multiple services in a pillar) with a high-level understanding of other components."
+      ],
+      "requiredExperience": "Bachelors + 0 years of previous experience",
+      "toolsAndTechnologies": [
+        "React",
+        "JavaScript",
+        "Figma"
+      ],
+      "importantQualifications": [
+        "Bachelors + 0 years of previous experience",
+        "Requires basic knowledge of theories, principles and concepts within a technical discipline; has exposure to current technologies through coursework or internship.",
+        "Deep interest in building technical expertise in Front-end technologies and intuitive user experiences for our customers."
+      ]
+    },
+    "analysisPromptVersion": "doc-analysis-v1",
+    "webResearchSummary": "",
+    "webSources": [],
+    "webResearchStatus": "unavailable",
+    "chunkIds": [
+      "jd_06705089_c1",
+      "jd_06705089_c2",
+      "jd_06705089_c3",
+      "jd_06705089_c4",
+      "jd_06705089_c5",
+      "jd_06705089_c6"
+    ],
+    "schemaVersion": 2,
+    "createdAt": "2026-11-23T18:06:42.184Z"
+  },
+  {
+    "id": "res_0fa71a83-5432-4a1b-b738-7f64a60bdb1c",
+    "userId": "usr_71fe6240-5ee2-48d1-bc80-96e6cad2d2be",
+    "docType": "resume",
+    "sourceType": "pdf",
+    "fileName": "SDE_Resume_Divya_Ratna_Gautam (10).pdf",
+    "fileSizeBytes": 108829,
+    "pageCount": 1,
+    "charCount": 3581,
+    "rawText": "Divya Ratna Gautam\n+91 9956189165 — vayugautam249@gmail.com — LinkedIn — LeetCode — GitHub\nSummary\nSoftware Engineering student with hands-on experience building full-stack applications, REST APIs, and\nLLM-powered systems. Strong foundation in Data Structures & Algorithms,Object-Oriented Programming, DBMS,\nOperating Systems, and Computer Networks. Experienced with Python, Java, React, FastAPI, and SQL, with\nadditional experience building RAG and LLM-based applications.\nEducation\nHarcourt Butler Technical University, Kanpur September 2023 – Present\nBachelor of Technology in Information Technology (CGPA : 7.01)\nOxford Model Senior Secondary School, Kanpur CBSE\nSenior Secondary (Class XII) – 81%\nOxford Model Senior Secondary School, Kanpur CBSE\nSecondary (Class X) – 71%\nSkills\nLanguages: Python, Java, JavaScript, SQL\nSoftware Engineering: Data Structures & Algorithms, OOP, REST APIs, Debugging, Git/GitHub\nBackend: FastAPI, Java\nFrontend: React.js, HTML, CSS\nGenerative AI: LLMs, RAG, Prompt Engineering, Embeddings, Vector Search\nDatabases: MongoDB, MySQL\nFundamentals: DBMS, Operating Systems, Computer Networks\nProjects\nPayFlow Copilot – AI-Powered Payment Operations Assistant GitHub — Live\nPython, FastAPI, React, TypeScript, PostgreSQL, SQLAlchemy, Qdrant Cloud, Groq API, Gemini API, Razorpay\n• Built a full-stack payment operations platform using FastAPI, React, and PostgreSQL 16, implementing JWT\nauthentication and user-scoped transaction, conversation, dispute, and audit-log management through REST APIs.\n• Integrated Groq Chat Completions API with openai/gpt-oss-120b for tool-calling conversations and Google’s Gemini\nEmbedding API with gemini-embedding-001 (768 dimensions) for semantic policy retrieval using Qdrant Cloud.\n• Implemented policy-document ingestion and retrieval with user/document metadata filtering, returning source-backed\ncitations; developed deterministic payment-failure analysis to identify failure reasons and retry eligibility.\n• Integrated Razorpay Standard Checkout (Test Mode) with order creation, HMAC-SHA256 payment-signature verification,\nwebhook verification, and failure reconciliation; implemented reviewable dispute drafts with evidence classification and audit\nlogging.\nLearnMate AI – Full-Stack RAG Learning Platform GitHub — Live\nPython, FastAPI, Qdrant, Gemini Embeddings API, Groq API, Pydantic\n• Engineered a Python-based Retrieval-Augmented Generation (RAG) pipeline using PyPDF for document ingestion,\nrecursive text splitting with 1,000-character chunks and 200-character overlap, and metadata-aware document processing.\n• Built a semantic retrieval system using Gemini embeddings and Qdrant Vector Database, retrieving the top 5 relevant\nchunks per query with metadata filtering and configurable similarity thresholds.\n• Integrated Groq’s ‘openai/gpt-oss-120b’ LLM for context-grounded question answering, with an 8,000-token context budget,\n800-token generation limit, and conversation history management.\n• Developed FastAPI REST endpoints for document ingestion and AI-powered learning workflows, incorporating Pydantic\nvalidation, structured error handling, retry logic, and automated evaluation of retrieval relevance and answer quality.\nAchievements\n• LeetCode Knight – Solved 1,300+ DSA problems across competitive programming platforms; peak LeetCode rating:\n2053.\n• CodeChef 3-Star – Peak rating: 1650; participated in multiple competitive programming contests.\n• Smart India Hackathon 2025 – Selected among the top teams at the HBTU internal hackathon.\n• GATE 2026 (CS & IT) – Score: 363; AIR: 25,584.",
+    "normalizedText": "Divya Ratna Gautam\n+91 9956189165 — vayugautam249@gmail.com — LinkedIn — LeetCode — GitHub\nSummary\nSoftware Engineering student with hands-on experience building full-stack applications, REST APIs, and\nLLM-powered systems. Strong foundation in Data Structures & Algorithms,Object-Oriented Programming, DBMS,\nOperating Systems, and Computer Networks. Experienced with Python, Java, React, FastAPI, and SQL, with\nadditional experience building RAG and LLM-based applications.\nEducation\nHarcourt Butler Technical University, Kanpur September 2023 – Present\nBachelor of Technology in Information Technology (CGPA : 7.01)\nOxford Model Senior Secondary School, Kanpur CBSE\nSenior Secondary (Class XII) – 81%\nOxford Model Senior Secondary School, Kanpur CBSE\nSecondary (Class X) – 71%\nSkills\nLanguages: Python, Java, JavaScript, SQL\nSoftware Engineering: Data Structures & Algorithms, OOP, REST APIs, Debugging, Git/GitHub\nBackend: FastAPI, Java\nFrontend: React.js, HTML, CSS\nGenerative AI: LLMs, RAG, Prompt Engineering, Embeddings, Vector Search\nDatabases: MongoDB, MySQL\nFundamentals: DBMS, Operating Systems, Computer Networks\nProjects\nPayFlow Copilot – AI-Powered Payment Operations Assistant GitHub — Live\nPython, FastAPI, React, TypeScript, PostgreSQL, SQLAlchemy, Qdrant Cloud, Groq API, Gemini API, Razorpay\n• Built a full-stack payment operations platform using FastAPI, React, and PostgreSQL 16, implementing JWT\nauthentication and user-scoped transaction, conversation, dispute, and audit-log management through REST APIs.\n• Integrated Groq Chat Completions API with openai/gpt-oss-120b for tool-calling conversations and Google’s Gemini\nEmbedding API with gemini-embedding-001 (768 dimensions) for semantic policy retrieval using Qdrant Cloud.\n• Implemented policy-document ingestion and retrieval with user/document metadata filtering, returning source-backed\ncitations; developed deterministic payment-failure analysis to identify failure reasons and retry eligibility.\n• Integrated Razorpay Standard Checkout (Test Mode) with order creation, HMAC-SHA256 payment-signature verification,\nwebhook verification, and failure reconciliation; implemented reviewable dispute drafts with evidence classification and audit\nlogging.\nLearnMate AI – Full-Stack RAG Learning Platform GitHub — Live\nPython, FastAPI, Qdrant, Gemini Embeddings API, Groq API, Pydantic\n• Engineered a Python-based Retrieval-Augmented Generation (RAG) pipeline using PyPDF for document ingestion,\nrecursive text splitting with 1,000-character chunks and 200-character overlap, and metadata-aware document processing.\n• Built a semantic retrieval system using Gemini embeddings and Qdrant Vector Database, retrieving the top 5 relevant\nchunks per query with metadata filtering and configurable similarity thresholds.\n• Integrated Groq’s ‘openai/gpt-oss-120b’ LLM for context-grounded question answering, with an 8,000-token context budget,\n800-token generation limit, and conversation history management.\n• Developed FastAPI REST endpoints for document ingestion and AI-powered learning workflows, incorporating Pydantic\nvalidation, structured error handling, retry logic, and automated evaluation of retrieval relevance and answer quality.\nAchievements\n• LeetCode Knight – Solved 1,300+ DSA problems across competitive programming platforms; peak LeetCode rating:\n2053.\n• CodeChef 3-Star – Peak rating: 1650; participated in multiple competitive programming contests.\n• Smart India Hackathon 2025 – Selected among the top teams at the HBTU internal hackathon.\n• GATE 2026 (CS & IT) – Score: 363; AIR: 25,584.",
+    "analysis": {
+      "candidateSkills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "SQL",
+        "Data Structures & Algorithms",
+        "OOP",
+        "Object-Oriented Programming",
+        "REST APIs",
+        "Debugging",
+        "Git/GitHub",
+        "FastAPI",
+        "React.js",
+        "React",
+        "HTML",
+        "CSS",
+        "LLMs",
+        "RAG",
+        "Prompt Engineering",
+        "Embeddings",
+        "Vector Search",
+        "MongoDB",
+        "MySQL",
+        "DBMS",
+        "Operating Systems",
+        "Computer Networks"
+      ],
+      "workExperience": [],
+      "projects": [
+        {
+          "name": "PayFlow Copilot – AI-Powered Payment Operations Assistant",
+          "description": "",
+          "technologies": [
+            "Python",
+            "FastAPI",
+            "React",
+            "TypeScript",
+            "PostgreSQL",
+            "PostgreSQL 16",
+            "SQLAlchemy",
+            "Qdrant Cloud",
+            "Groq API",
+            "Groq Chat Completions API",
+            "Gemini API",
+            "Google’s Gemini Embedding API",
+            "Razorpay",
+            "Razorpay Standard Checkout",
+            "JWT",
+            "HMAC-SHA256",
+            "openai/gpt-oss-120b",
+            "gemini-embedding-001 (768 dimensions)"
+          ]
+        },
+        {
+          "name": "LearnMate AI – Full-Stack RAG Learning Platform",
+          "description": "",
+          "technologies": [
+            "Python",
+            "FastAPI",
+            "Qdrant",
+            "Qdrant Vector Database",
+            "Gemini Embeddings API",
+            "Groq API",
+            "Pydantic",
+            "PyPDF",
+            "openai/gpt-oss-120b"
+          ]
+        }
+      ],
+      "education": [
+        "Harcourt Butler Technical University, Kanpur (September 2023 – Present) - Bachelor of Technology in Information Technology (CGPA : 7.01)"
+      ],
+      "technologiesUsed": [],
+      "achievements": []
+    },
+    "chunkIds": [
+      "resume_a60bdb1c_c1",
+      "resume_a60bdb1c_c2",
+      "resume_a60bdb1c_c3",
+      "resume_a60bdb1c_c4",
+      "resume_a60bdb1c_c5",
+      "resume_a60bdb1c_c6",
+      "resume_a60bdb1c_c7",
+      "resume_a60bdb1c_c8"
+    ],
+    "schemaVersion": 2,
+    "createdAt": "2026-11-22T14:35:35.110Z"
+  },
+  {
+    "id": "jd_f2635770-95bb-4052-ab50-e803962f5c88",
+    "userId": "usr_71fe6240-5ee2-48d1-bc80-96e6cad2d2be",
+    "docType": "jd",
+    "sourceType": "text",
+    "charCount": 4584,
+    "rawText": "At Agoda, we bridge the world through travel. Our story began in 2005, when two lifelong friends and entrepreneurs, driven by their passion for travel, launched Agoda to make it easier for everyone to explore the world.\n\nToday, we are part of Booking Holdings [NASDAQ: BKNG], with a diverse team of over 7,000 people from 90 countries, working together in offices around the globe. Every day, we connect people to destinations and experiences, with our great deals across our millions of hotels and holiday properties, flights, and experiences worldwide.\n\nNo two days are the same at Agoda. Data and technology are at the heart of our culture, fueling our curiosity and innovation. If you’re ready to begin your best journey and help build travel for the world, join us.\n\nInternship period: 11 January - 30 June 2027\n\nInterview process:\n\nRegistration closes: 22 of November 2026\nAnnounce shortlisted for Online coding test: 26 of November 2026\nOnline coding test: 28 - 29 of November 2026\nAnnounce the shortlist: 2 of December 2026\nOn-site interview day: To be confirmed - 11 OR 17 of December 2026\nPlease note that you will need to be able to join the on-site Interview Day; remote or alternative interview options won’t be available for this round.\n\nInternship Opportunity: Dive into the World of Tech Magic!\n\nAre you the kind of tech enthusiast who loves to see how the pieces of the puzzle fit together? Whether you call yourself a \"full stack\" wizard, a \"back end\" guru, or a specialist in a particular domain, we want to hear from you! We're on the lookout for curious minds who are eager to explore the symphony of systems that power the tech world. No need to be a master of all trades—just bring your passion and a willingness to learn.\n\nWhat You'll Get to Do:\n\nAre you the kind of tech enthusiast who loves to see how the pieces of the puzzle fit together? We're on the lookout for curious minds who are eager to explore the symphony of systems that power the tech world. No need to be a master of all trades—just bring your passion and a willingness to learn.\n\nWhat You'll Get to Do:\n\nCode Like a Pro: Contribute to a high-quality codebase and work on scalable, fault-tolerant systems and APIs that handle millions of requests. Your code will be part of something big!\nPlay with Cool Tech: Use cutting-edge languages like Scala, Kotlin, ReactJS, and C#, and dive into data technologies like MSSQL, PG, Kafka and Spark. All this while embracing agile development practices.\nBe a CI/CD Rockstar: Implement state-of-the-art CI/CD and testing techniques to ensure everything runs smoothly with zero downtime. You'll be the hero behind seamless operations!\nGain hands-on experience with state-of-the-art AI tools and frameworks, prototype and productionize ML/LLM-driven features and help create an impact on how world travels.\nThink Big Picture: Consider the entire product lifecycle—from defining product requirements and choosing the right technology to coding standards, agile development, testing, deployment, and ongoing monitoring. You'll be a part of it all!\nWhat You'll Need to Succeed:\n\nCurrently pursuing a Bachelor’s or Master’s Degree in Computer Science or a related field.\nFamiliarity with the fundamentals of Object-oriented and/or Functional programming.\nA grasp of relational and/or non-relational databases.\nProficient English communication skills.\nA readiness to learn quickly and adapt to new challenges.\nBe able to join our internship program for 6 months\nBonus Points If You Have:\n\nPractical experience with Scala, Kotlin, Java, JavaScript, ReactJS, or C#.\nExposure to AI/ML frameworks (e.g., TensorFlow, PyTorch, scikit-learn, PySpark) or have completed AI/ML-related coursework or projects.\nPrevious involvement in developing back-end applications and services, with an understanding of the basics of system scaling.\nKnowledge of data platforms such as MS SQL, Cassandra, or Hadoop, recognizing that different applications have unique data needs.\nExperience with automated CI/CD systems, a commitment to test-driven development, knowledge of clean software architectures, and a grounding in SOLID principles.\nProficiency in core engineering infrastructure tools like Git for source control, TeamCity for Continuous Integration, and Puppet for deployment.\nIf you're passionate about technology, eager to learn, and motivated to contribute to innovative projects, we encourage you to apply. We welcome candidates from diverse backgrounds and career stages to join our team. Get ready to solve some awesome problems and make your mark in the tech industry!",
+    "normalizedText": "At Agoda, we bridge the world through travel. Our story began in 2005, when two lifelong friends and entrepreneurs, driven by their passion for travel, launched Agoda to make it easier for everyone to explore the world.\n\nToday, we are part of Booking Holdings [NASDAQ: BKNG], with a diverse team of over 7,000 people from 90 countries, working together in offices around the globe. Every day, we connect people to destinations and experiences, with our great deals across our millions of hotels and holiday properties, flights, and experiences worldwide.\n\nNo two days are the same at Agoda. Data and technology are at the heart of our culture, fueling our curiosity and innovation. If you’re ready to begin your best journey and help build travel for the world, join us.\n\nInternship period: 11 January - 30 June 2027\n\nInterview process:\n\nRegistration closes: 22 of November 2026\nAnnounce shortlisted for Online coding test: 26 of November 2026\nOnline coding test: 28 - 29 of November 2026\nAnnounce the shortlist: 2 of December 2026\nOn-site interview day: To be confirmed - 11 OR 17 of December 2026\nPlease note that you will need to be able to join the on-site Interview Day; remote or alternative interview options won’t be available for this round.\n\nInternship Opportunity: Dive into the World of Tech Magic!\n\nAre you the kind of tech enthusiast who loves to see how the pieces of the puzzle fit together? Whether you call yourself a \"full stack\" wizard, a \"back end\" guru, or a specialist in a particular domain, we want to hear from you! We're on the lookout for curious minds who are eager to explore the symphony of systems that power the tech world. No need to be a master of all trades—just bring your passion and a willingness to learn.\n\nWhat You'll Get to Do:\n\nAre you the kind of tech enthusiast who loves to see how the pieces of the puzzle fit together? We're on the lookout for curious minds who are eager to explore the symphony of systems that power the tech world. No need to be a master of all trades—just bring your passion and a willingness to learn.\n\nWhat You'll Get to Do:\n\nCode Like a Pro: Contribute to a high-quality codebase and work on scalable, fault-tolerant systems and APIs that handle millions of requests. Your code will be part of something big!\nPlay with Cool Tech: Use cutting-edge languages like Scala, Kotlin, ReactJS, and C#, and dive into data technologies like MSSQL, PG, Kafka and Spark. All this while embracing agile development practices.\nBe a CI/CD Rockstar: Implement state-of-the-art CI/CD and testing techniques to ensure everything runs smoothly with zero downtime. You'll be the hero behind seamless operations!\nGain hands-on experience with state-of-the-art AI tools and frameworks, prototype and productionize ML/LLM-driven features and help create an impact on how world travels.\nThink Big Picture: Consider the entire product lifecycle—from defining product requirements and choosing the right technology to coding standards, agile development, testing, deployment, and ongoing monitoring. You'll be a part of it all!\nWhat You'll Need to Succeed:\n\nCurrently pursuing a Bachelor’s or Master’s Degree in Computer Science or a related field.\nFamiliarity with the fundamentals of Object-oriented and/or Functional programming.\nA grasp of relational and/or non-relational databases.\nProficient English communication skills.\nA readiness to learn quickly and adapt to new challenges.\nBe able to join our internship program for 6 months\nBonus Points If You Have:\n\nPractical experience with Scala, Kotlin, Java, JavaScript, ReactJS, or C#.\nExposure to AI/ML frameworks (e.g., TensorFlow, PyTorch, scikit-learn, PySpark) or have completed AI/ML-related coursework or projects.\nPrevious involvement in developing back-end applications and services, with an understanding of the basics of system scaling.\nKnowledge of data platforms such as MS SQL, Cassandra, or Hadoop, recognizing that different applications have unique data needs.\nExperience with automated CI/CD systems, a commitment to test-driven development, knowledge of clean software architectures, and a grounding in SOLID principles.\nProficiency in core engineering infrastructure tools like Git for source control, TeamCity for Continuous Integration, and Puppet for deployment.\nIf you're passionate about technology, eager to learn, and motivated to contribute to innovative projects, we encourage you to apply. We welcome candidates from diverse backgrounds and career stages to join our team. Get ready to solve some awesome problems and make your mark in the tech industry!",
+    "analysis": {
+      "jobTitle": "Internship Opportunity: Dive into the World of Tech Magic!",
+      "companyName": "Agoda",
+      "requiredTechnicalSkills": [
+        "Familiarity with the fundamentals of Object-oriented and/or Functional programming",
+        "Grasp of relational and/or non-relational databases"
+      ],
+      "preferredSkills": [
+        "Practical experience with Scala, Kotlin, Java, JavaScript, ReactJS, or C#",
+        "Exposure to AI/ML frameworks (e.g., TensorFlow, PyTorch, scikit-learn, PySpark) or completed AI/ML-related coursework or projects",
+        "Previous involvement in developing back-end applications and services with an understanding of the basics of system scaling",
+        "Knowledge of data platforms such as MS SQL, Cassandra, or Hadoop",
+        "Experience with automated CI/CD systems",
+        "Commitment to test-driven development",
+        "Knowledge of clean software architectures",
+        "Grounding in SOLID principles",
+        "Proficiency in core engineering infrastructure tools like Git, TeamCity, and Puppet"
+      ],
+      "responsibilities": [
+        "Contribute to a high-quality codebase and work on scalable, fault-tolerant systems and APIs that handle millions of requests",
+        "Use cutting-edge languages like Scala, Kotlin, ReactJS, and C#, and dive into data technologies like MSSQL, PG, Kafka, and Spark while embracing agile development practices",
+        "Implement state-of-the-art CI/CD and testing techniques to ensure everything runs smoothly with zero downtime",
+        "Gain hands-on experience with state-of-the-art AI tools and frameworks, prototype and productionize ML/LLM-driven features",
+        "Consider the entire product lifecycle from defining product requirements and choosing the right technology to coding standards, agile development, testing, deployment, and ongoing monitoring"
+      ],
+      "requiredExperience": "Unknown",
+      "toolsAndTechnologies": [
+        "Scala",
+        "Kotlin",
+        "ReactJS",
+        "C#",
+        "MSSQL",
+        "PG",
+        "Kafka",
+        "Spark",
+        "Java",
+        "JavaScript",
+        "TensorFlow",
+        "PyTorch",
+        "scikit-learn",
+        "PySpark",
+        "Cassandra",
+        "Hadoop",
+        "Git",
+        "TeamCity",
+        "Puppet"
+      ],
+      "importantQualifications": [
+        "Currently pursuing a Bachelor’s or Master’s Degree in Computer Science or a related field",
+        "Proficient English communication skills",
+        "A readiness to learn quickly and adapt to new challenges",
+        "Be able to join the internship program for 6 months (11 January - 30 June 2027)",
+        "Able to join the on-site Interview Day (11 or 17 of December 2026)"
+      ]
+    },
+    "webResearchSummary": "",
+    "webSources": [],
+    "webResearchStatus": "unavailable",
+    "chunkIds": [
+      "jd_962f5c88_c1",
+      "jd_962f5c88_c2",
+      "jd_962f5c88_c3",
+      "jd_962f5c88_c4",
+      "jd_962f5c88_c5",
+      "jd_962f5c88_c6",
+      "jd_962f5c88_c7",
+      "jd_962f5c88_c8",
+      "jd_962f5c88_c9",
+      "jd_962f5c88_c10"
+    ],
+    "schemaVersion": 2,
+    "createdAt": "2026-11-22T14:29:33.685Z"
+  },
+  {
+    "id": "jd_8b182a26-33b8-4d1a-84b3-6159ee3e48be",
+    "userId": "usr_academic_demo",
+    "docType": "jd",
+    "sourceType": "text",
+    "charCount": 98,
+    "rawText": "Senior Backend Engineer at Stripe requiring TypeScript, PostgreSQL, Redis, Docker, and Kubernetes.",
+    "normalizedText": "Senior Backend Engineer at Stripe requiring TypeScript, PostgreSQL, Redis, Docker, and Kubernetes.",
+    "analysis": {
+      "jobTitle": "Senior Backend Engineer",
+      "companyName": "Stripe",
+      "requiredTechnicalSkills": [
+        "TypeScript",
+        "PostgreSQL",
+        "Redis",
+        "Docker",
+        "Kubernetes"
+      ],
+      "preferredSkills": [],
+      "responsibilities": [],
+      "requiredExperience": "Unknown",
+      "toolsAndTechnologies": [
+        "TypeScript",
+        "PostgreSQL",
+        "Redis",
+        "Docker",
+        "Kubernetes"
+      ],
+      "importantQualifications": []
+    },
+    "webResearchSummary": "",
+    "webSources": [],
+    "webResearchStatus": "skipped",
+    "chunkIds": [
+      "jd_ee3e48be_c1"
+    ],
+    "schemaVersion": 2,
+    "createdAt": "2026-11-18T07:31:51.169Z"
+  },
+  {
+    "id": "jd_8e219fef-f70b-4434-853a-7afb6d2df41f",
+    "userId": "usr_academic_demo",
+    "docType": "jd",
+    "sourceType": "text",
+    "charCount": 93,
+    "rawText": "Software Engineer position working with TypeScript, PostgreSQL, and Node.js backend services.",
+    "normalizedText": "Software Engineer position working with TypeScript, PostgreSQL, and Node.js backend services.",
+    "analysis": {
+      "jobTitle": "Software Engineer",
+      "companyName": "Unknown",
+      "requiredTechnicalSkills": [
+        "TypeScript",
+        "PostgreSQL",
+        "Node.js"
+      ],
+      "preferredSkills": [],
+      "responsibilities": [
+        "Working with TypeScript, PostgreSQL, and Node.js backend services"
+      ],
+      "requiredExperience": "Unknown",
+      "toolsAndTechnologies": [
+        "TypeScript",
+        "PostgreSQL",
+        "Node.js"
+      ],
+      "importantQualifications": []
+    },
+    "webResearchSummary": "",
+    "webSources": [],
+    "webResearchStatus": "unavailable",
+    "chunkIds": [
+      "jd_6d2df41f_c1"
+    ],
+    "schemaVersion": 2,
+    "createdAt": "2026-11-18T07:31:41.179Z"
+  }
+]
