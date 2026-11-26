@@ -218,6 +218,10 @@ export function createApp(options: CreateAppOptions) {
   app.use(express.json({ limit: '25mb' }));
   app.use(express.urlencoded({ extended: true, limit: '25mb' }));
 
+  app.get('/health', (_req, res) => {
+    res.status(200).json({ status: 'ok' });
+  });
+
   // ==========================================
   // AUTH ROUTES (Preserved)
   // ==========================================

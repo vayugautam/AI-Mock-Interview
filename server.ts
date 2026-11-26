@@ -9,7 +9,8 @@ dotenv.config();
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-const DATA_DIR = path.join(__dirname, 'data');
+// Keep SQLite and app data on a mounted persistent directory in production.
+const DATA_DIR = path.resolve(process.env.DATA_DIR || path.join(__dirname, 'data'));
 
 async function startServer() {
   const PORT = parseInt(process.env.PORT || '3000', 10);
